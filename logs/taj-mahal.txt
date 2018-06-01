@@ -1,0 +1,82 @@
+Learning Rate = 2
+
+Iteration 0 :
+total cost = 1.35609e+10
+content cost = 10517.4
+style cost = 3.39019e+08
+Iteration 10 :
+total cost = 4.46565e+09
+content cost = 20326.6
+style cost = 1.11636e+08
+Iteration 20 :
+total cost = 1.71954e+09
+content cost = 24492.7
+style cost = 4.29824e+07
+Iteration 30 :
+total cost = 9.00505e+08
+content cost = 25716.9
+style cost = 2.25062e+07
+Iteration 40 :
+total cost = 5.69252e+08
+content cost = 26346.1
+style cost = 1.42247e+07
+Iteration 50 :
+total cost = 3.9534e+08
+content cost = 26892.9
+style cost = 9.87678e+06
+Iteration 60 :
+total cost = 2.95621e+08
+content cost = 27208.3
+style cost = 7.38371e+06
+Iteration 70 :
+total cost = 2.35452e+08
+content cost = 27488.5
+style cost = 5.87943e+06
+Iteration 80 :
+total cost = 1.96403e+08
+content cost = 27715.3
+style cost = 4.90315e+06
+Iteration 90 :
+total cost = 1.6903e+08
+content cost = 27888.9
+style cost = 4.21879e+06
+Iteration 100 :
+total cost = 1.48786e+08
+content cost = 28057.1
+style cost = 3.71264e+06
+Iteration 110 :
+total cost = 1.33156e+08
+content cost = 28201.6
+style cost = 3.32186e+06
+Iteration 120 :
+total cost = 1.20577e+08
+content cost = 28337.8
+style cost = 3.00733e+06
+Iteration 130 :
+total cost = 1.10192e+08
+content cost = 28462.1
+style cost = 2.74769e+06
+Iteration 140 :
+total cost = 1.01413e+08
+content cost = 28573.4
+style cost = 2.52819e+06
+Iteration 150 :
+total cost = 9.38846e+07
+content cost = 28677.9
+style cost = 2.33995e+06
+Iteration 160 :
+total cost = 8.73391e+07
+content cost = 28783.6
+style cost = 2.17628e+06
+Iteration 170 :
+total cost = 8.15776e+07
+content cost = 28876.8
+style cost = 2.03222e+06
+Iteration 180 :
+total cost = 7.64605e+07
+content cost = 28964.7
+style cost = 1.90427e+06
+Iteration 190 :
+total cost = 7.18991e+07
+content cost = 29055.8
+style cost = 1.79021e+06

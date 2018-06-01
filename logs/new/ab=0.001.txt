@@ -1,0 +1,1283 @@
+
+
+Iteration 0 : 
+
+total cost = 1.82E+11
+content cost = 582.6292
+style cost = 1.82E+8
+iteration time = 2.28
+Total time = 2.28
+
+Iteration 1 : 
+
+total cost = 1.69E+11
+content cost = 1293.1304
+style cost = 1.69E+8
+iteration time = 1.17
+Total time = 3.45
+
+Iteration 2 : 
+
+total cost = 1.60E+11
+content cost = 2193.038
+style cost = 1.60E+8
+iteration time = 1.15
+Total time = 4.62
+
+Iteration 3 : 
+
+total cost = 1.53E+11
+content cost = 3029.7866
+style cost = 1.53E+8
+iteration time = 1.17
+Total time = 5.80
+
+Iteration 4 : 
+
+total cost = 1.46E+11
+content cost = 3763.5361
+style cost = 1.46E+8
+iteration time = 1.16
+Total time = 6.96
+
+Iteration 5 : 
+
+total cost = 1.41E+11
+content cost = 4404.59
+style cost = 1.41E+8
+iteration time = 1.15
+Total time = 8.13
+
+Iteration 6 : 
+
+total cost = 1.36E+11
+content cost = 4974.578
+style cost = 1.36E+8
+iteration time = 1.15
+Total time = 9.30
+
+Iteration 7 : 
+
+total cost = 1.31E+11
+content cost = 5489.313
+style cost = 1.31E+8
+iteration time = 1.16
+Total time = 10.48
+
+Iteration 8 : 
+
+total cost = 1.26E+11
+content cost = 5958.7485
+style cost = 1.26E+8
+iteration time = 1.17
+Total time = 11.66
+
+Iteration 9 : 
+
+total cost = 1.22E+11
+content cost = 6390.437
+style cost = 1.22E+8
+iteration time = 1.15
+Total time = 12.82
+
+Iteration 10 : 
+
+total cost = 1.18E+11
+content cost = 6789.2725
+style cost = 1.18E+8
+iteration time = 1.15
+Total time = 13.99
+
+Iteration 11 : 
+
+total cost = 1.14E+11
+content cost = 7159.761
+style cost = 1.14E+8
+iteration time = 1.17
+Total time = 15.17
+
+Iteration 12 : 
+
+total cost = 1.11E+11
+content cost = 7504.096
+style cost = 1.11E+8
+iteration time = 1.16
+Total time = 16.34
+
+Iteration 13 : 
+
+total cost = 1.07E+11
+content cost = 7828.3413
+style cost = 1.07E+8
+iteration time = 1.17
+Total time = 17.52
+
+Iteration 14 : 
+
+total cost = 1.04E+11
+content cost = 8134.72
+style cost = 1.04E+8
+iteration time = 1.18
+Total time = 18.69
+
+Iteration 15 : 
+
+total cost = 1.01E+11
+content cost = 8426.253
+style cost = 1.01E+8
+iteration time = 1.17
+Total time = 19.87
+
+Iteration 16 : 
+
+total cost = 9.77E+10
+content cost = 8704.6045
+style cost = 9.77E+7
+iteration time = 1.16
+Total time = 21.04
+
+Iteration 17 : 
+
+total cost = 9.48E+10
+content cost = 8970.955
+style cost = 9.48E+7
+iteration time = 1.18
+Total time = 22.21
+
+Iteration 18 : 
+
+total cost = 9.20E+10
+content cost = 9224.865
+style cost = 9.20E+7
+iteration time = 1.16
+Total time = 23.37
+
+Iteration 19 : 
+
+total cost = 8.93E+10
+content cost = 9467.818
+style cost = 8.93E+7
+iteration time = 1.16
+Total time = 24.55
+
+Iteration 20 : 
+
+total cost = 8.67E+10
+content cost = 9700.467
+style cost = 8.67E+7
+iteration time = 1.17
+Total time = 25.72
+
+Iteration 21 : 
+
+total cost = 8.43E+10
+content cost = 9923.765
+style cost = 8.43E+7
+iteration time = 1.17
+Total time = 26.89
+
+Iteration 22 : 
+
+total cost = 8.19E+10
+content cost = 10138.405
+style cost = 8.19E+7
+iteration time = 1.17
+Total time = 28.08
+
+Iteration 23 : 
+
+total cost = 7.95E+10
+content cost = 10345.692
+style cost = 7.95E+7
+iteration time = 1.17
+Total time = 29.25
+
+Iteration 24 : 
+
+total cost = 7.73E+10
+content cost = 10545.663
+style cost = 7.73E+7
+iteration time = 1.16
+Total time = 30.43
+
+Iteration 25 : 
+
+total cost = 7.51E+10
+content cost = 10739.46
+style cost = 7.51E+7
+iteration time = 1.18
+Total time = 31.60
+
+Iteration 26 : 
+
+total cost = 7.30E+10
+content cost = 10927.596
+style cost = 7.30E+7
+iteration time = 1.17
+Total time = 32.77
+
+Iteration 27 : 
+
+total cost = 7.09E+10
+content cost = 11111.144
+style cost = 7.09E+7
+iteration time = 1.18
+Total time = 33.95
+
+Iteration 28 : 
+
+total cost = 6.90E+10
+content cost = 11290.115
+style cost = 6.90E+7
+iteration time = 1.18
+Total time = 35.13
+
+Iteration 29 : 
+
+total cost = 6.70E+10
+content cost = 11463.684
+style cost = 6.70E+7
+iteration time = 1.16
+Total time = 36.29
+
+Iteration 30 : 
+
+total cost = 6.51E+10
+content cost = 11631.779
+style cost = 6.51E+7
+iteration time = 1.17
+Total time = 37.46
+
+Iteration 31 : 
+
+total cost = 6.33E+10
+content cost = 11795.114
+style cost = 6.33E+7
+iteration time = 1.18
+Total time = 38.64
+
+Iteration 32 : 
+
+total cost = 6.15E+10
+content cost = 11954.563
+style cost = 6.15E+7
+iteration time = 1.17
+Total time = 39.82
+
+Iteration 33 : 
+
+total cost = 5.98E+10
+content cost = 12110.749
+style cost = 5.98E+7
+iteration time = 1.15
+Total time = 40.98
+
+Iteration 34 : 
+
+total cost = 5.81E+10
+content cost = 12263.579
+style cost = 5.81E+7
+iteration time = 1.16
+Total time = 42.16
+
+Iteration 35 : 
+
+total cost = 5.65E+10
+content cost = 12413.037
+style cost = 5.65E+7
+iteration time = 1.17
+Total time = 43.33
+
+Iteration 36 : 
+
+total cost = 5.49E+10
+content cost = 12559.426
+style cost = 5.49E+7
+iteration time = 1.15
+Total time = 44.50
+
+Iteration 37 : 
+
+total cost = 5.33E+10
+content cost = 12703.452
+style cost = 5.33E+7
+iteration time = 1.17
+Total time = 45.68
+
+Iteration 38 : 
+
+total cost = 5.18E+10
+content cost = 12845.18
+style cost = 5.18E+7
+iteration time = 1.16
+Total time = 46.85
+
+Iteration 39 : 
+
+total cost = 5.03E+10
+content cost = 12984.248
+style cost = 5.03E+7
+iteration time = 1.16
+Total time = 48.02
+
+Iteration 40 : 
+
+total cost = 4.89E+10
+content cost = 13120.014
+style cost = 4.89E+7
+iteration time = 1.15
+Total time = 49.19
+
+Iteration 41 : 
+
+total cost = 4.75E+10
+content cost = 13253.651
+style cost = 4.75E+7
+iteration time = 1.16
+Total time = 50.37
+
+Iteration 42 : 
+
+total cost = 4.61E+10
+content cost = 13385.274
+style cost = 4.61E+7
+iteration time = 1.15
+Total time = 51.54
+
+Iteration 43 : 
+
+total cost = 4.48E+10
+content cost = 13515.738
+style cost = 4.48E+7
+iteration time = 1.17
+Total time = 52.72
+
+Iteration 44 : 
+
+total cost = 4.35E+10
+content cost = 13644.819
+style cost = 4.35E+7
+iteration time = 1.17
+Total time = 53.89
+
+Iteration 45 : 
+
+total cost = 4.22E+10
+content cost = 13773.0
+style cost = 4.22E+7
+iteration time = 1.16
+Total time = 55.05
+
+Iteration 46 : 
+
+total cost = 4.10E+10
+content cost = 13899.157
+style cost = 4.10E+7
+iteration time = 1.18
+Total time = 56.25
+
+Iteration 47 : 
+
+total cost = 3.98E+10
+content cost = 14023.524
+style cost = 3.98E+7
+iteration time = 1.16
+Total time = 57.41
+
+Iteration 48 : 
+
+total cost = 3.87E+10
+content cost = 14145.57
+style cost = 3.87E+7
+iteration time = 1.17
+Total time = 58.58
+
+Iteration 49 : 
+
+total cost = 3.75E+10
+content cost = 14264.878
+style cost = 3.75E+7
+iteration time = 1.18
+Total time = 59.76
+
+Iteration 50 : 
+
+total cost = 3.65E+10
+content cost = 14382.237
+style cost = 3.65E+7
+iteration time = 1.16
+Total time = 60.92
+
+Iteration 51 : 
+
+total cost = 3.54E+10
+content cost = 14498.282
+style cost = 3.54E+7
+iteration time = 1.17
+Total time = 62.11
+
+Iteration 52 : 
+
+total cost = 3.44E+10
+content cost = 14611.876
+style cost = 3.44E+7
+iteration time = 1.17
+Total time = 63.27
+
+Iteration 53 : 
+
+total cost = 3.34E+10
+content cost = 14723.909
+style cost = 3.34E+7
+iteration time = 1.18
+Total time = 64.47
+
+Iteration 54 : 
+
+total cost = 3.25E+10
+content cost = 14834.118
+style cost = 3.25E+7
+iteration time = 1.16
+Total time = 65.63
+
+Iteration 55 : 
+
+total cost = 3.16E+10
+content cost = 14942.934
+style cost = 3.16E+7
+iteration time = 1.17
+Total time = 66.82
+
+Iteration 56 : 
+
+total cost = 3.07E+10
+content cost = 15050.154
+style cost = 3.07E+7
+iteration time = 1.16
+Total time = 67.98
+
+Iteration 57 : 
+
+total cost = 2.98E+10
+content cost = 15155.384
+style cost = 2.98E+7
+iteration time = 1.15
+Total time = 69.15
+
+Iteration 58 : 
+
+total cost = 2.90E+10
+content cost = 15258.5
+style cost = 2.90E+7
+iteration time = 1.17
+Total time = 70.34
+
+Iteration 59 : 
+
+total cost = 2.82E+10
+content cost = 15359.093
+style cost = 2.82E+7
+iteration time = 1.17
+Total time = 71.51
+
+Iteration 60 : 
+
+total cost = 2.74E+10
+content cost = 15457.619
+style cost = 2.74E+7
+iteration time = 1.15
+Total time = 72.67
+
+Iteration 61 : 
+
+total cost = 2.67E+10
+content cost = 15553.9795
+style cost = 2.67E+7
+iteration time = 1.17
+Total time = 73.85
+
+Iteration 62 : 
+
+total cost = 2.60E+10
+content cost = 15648.19
+style cost = 2.60E+7
+iteration time = 1.17
+Total time = 75.02
+
+Iteration 63 : 
+
+total cost = 2.53E+10
+content cost = 15739.731
+style cost = 2.53E+7
+iteration time = 1.17
+Total time = 76.19
+
+Iteration 64 : 
+
+total cost = 2.46E+10
+content cost = 15828.562
+style cost = 2.46E+7
+iteration time = 1.16
+Total time = 77.37
+
+Iteration 65 : 
+
+total cost = 2.40E+10
+content cost = 15915.067
+style cost = 2.40E+7
+iteration time = 1.17
+Total time = 78.54
+
+Iteration 66 : 
+
+total cost = 2.34E+10
+content cost = 15999.166
+style cost = 2.34E+7
+iteration time = 1.17
+Total time = 79.72
+
+Iteration 67 : 
+
+total cost = 2.28E+10
+content cost = 16080.69
+style cost = 2.28E+7
+iteration time = 1.17
+Total time = 80.89
+
+Iteration 68 : 
+
+total cost = 2.22E+10
+content cost = 16159.83
+style cost = 2.22E+7
+iteration time = 1.18
+Total time = 82.07
+
+Iteration 69 : 
+
+total cost = 2.16E+10
+content cost = 16236.576
+style cost = 2.16E+7
+iteration time = 1.17
+Total time = 83.24
+
+Iteration 70 : 
+
+total cost = 2.11E+10
+content cost = 16311.3955
+style cost = 2.11E+7
+iteration time = 1.18
+Total time = 84.42
+
+Iteration 71 : 
+
+total cost = 2.06E+10
+content cost = 16384.195
+style cost = 2.06E+7
+iteration time = 1.17
+Total time = 85.60
+
+Iteration 72 : 
+
+total cost = 2.01E+10
+content cost = 16455.191
+style cost = 2.01E+7
+iteration time = 1.16
+Total time = 86.76
+
+Iteration 73 : 
+
+total cost = 1.96E+10
+content cost = 16524.318
+style cost = 1.96E+7
+iteration time = 1.17
+Total time = 87.95
+
+Iteration 74 : 
+
+total cost = 1.91E+10
+content cost = 16591.219
+style cost = 1.91E+7
+iteration time = 1.17
+Total time = 89.12
+
+Iteration 75 : 
+
+total cost = 1.87E+10
+content cost = 16655.791
+style cost = 1.87E+7
+iteration time = 1.17
+Total time = 90.30
+
+Iteration 76 : 
+
+total cost = 1.82E+10
+content cost = 16718.521
+style cost = 1.82E+7
+iteration time = 1.18
+Total time = 91.48
+
+Iteration 77 : 
+
+total cost = 1.78E+10
+content cost = 16779.785
+style cost = 1.78E+7
+iteration time = 1.17
+Total time = 92.65
+
+Iteration 78 : 
+
+total cost = 1.74E+10
+content cost = 16839.479
+style cost = 1.74E+7
+iteration time = 1.17
+Total time = 93.82
+
+Iteration 79 : 
+
+total cost = 1.70E+10
+content cost = 16898.268
+style cost = 1.70E+7
+iteration time = 1.18
+Total time = 95.00
+
+Iteration 80 : 
+
+total cost = 1.66E+10
+content cost = 16955.988
+style cost = 1.66E+7
+iteration time = 1.16
+Total time = 96.16
+
+Iteration 81 : 
+
+total cost = 1.63E+10
+content cost = 17012.834
+style cost = 1.63E+7
+iteration time = 1.17
+Total time = 97.33
+
+Iteration 82 : 
+
+total cost = 1.59E+10
+content cost = 17068.223
+style cost = 1.59E+7
+iteration time = 1.17
+Total time = 98.51
+
+Iteration 83 : 
+
+total cost = 1.56E+10
+content cost = 17122.057
+style cost = 1.56E+7
+iteration time = 1.16
+Total time = 99.68
+
+Iteration 84 : 
+
+total cost = 1.52E+10
+content cost = 17174.615
+style cost = 1.52E+7
+iteration time = 1.15
+Total time = 100.85
+
+Iteration 85 : 
+
+total cost = 1.49E+10
+content cost = 17225.625
+style cost = 1.49E+7
+iteration time = 1.17
+Total time = 102.04
+
+Iteration 86 : 
+
+total cost = 1.46E+10
+content cost = 17275.107
+style cost = 1.46E+7
+iteration time = 1.16
+Total time = 103.20
+
+Iteration 87 : 
+
+total cost = 1.43E+10
+content cost = 17323.428
+style cost = 1.43E+7
+iteration time = 1.16
+Total time = 104.39
+
+Iteration 88 : 
+
+total cost = 1.40E+10
+content cost = 17370.791
+style cost = 1.40E+7
+iteration time = 1.18
+Total time = 105.56
+
+Iteration 89 : 
+
+total cost = 1.37E+10
+content cost = 17417.088
+style cost = 1.37E+7
+iteration time = 1.15
+Total time = 106.72
+
+Iteration 90 : 
+
+total cost = 1.34E+10
+content cost = 17462.436
+style cost = 1.34E+7
+iteration time = 1.16
+Total time = 107.90
+
+Iteration 91 : 
+
+total cost = 1.32E+10
+content cost = 17506.746
+style cost = 1.32E+7
+iteration time = 1.17
+Total time = 109.09
+
+Iteration 92 : 
+
+total cost = 1.29E+10
+content cost = 17549.96
+style cost = 1.29E+7
+iteration time = 1.17
+Total time = 110.26
+
+Iteration 93 : 
+
+total cost = 1.27E+10
+content cost = 17591.988
+style cost = 1.27E+7
+iteration time = 1.17
+Total time = 111.42
+
+Iteration 94 : 
+
+total cost = 1.24E+10
+content cost = 17632.602
+style cost = 1.24E+7
+iteration time = 1.16
+Total time = 112.59
+
+Iteration 95 : 
+
+total cost = 1.22E+10
+content cost = 17672.227
+style cost = 1.22E+7
+iteration time = 1.16
+Total time = 113.78
+
+Iteration 96 : 
+
+total cost = 1.20E+10
+content cost = 17710.666
+style cost = 1.20E+7
+iteration time = 1.17
+Total time = 114.94
+
+Iteration 97 : 
+
+total cost = 1.17E+10
+content cost = 17748.203
+style cost = 1.17E+7
+iteration time = 1.18
+Total time = 116.13
+
+Iteration 98 : 
+
+total cost = 1.15E+10
+content cost = 17784.922
+style cost = 1.15E+7
+iteration time = 1.17
+Total time = 117.30
+
+Iteration 99 : 
+
+total cost = 1.13E+10
+content cost = 17820.709
+style cost = 1.13E+7
+iteration time = 1.17
+Total time = 118.49
+
+Iteration 100 : 
+
+total cost = 1.11E+10
+content cost = 17855.396
+style cost = 1.11E+7
+iteration time = 1.16
+Total time = 119.66
+
+Iteration 101 : 
+
+total cost = 1.09E+10
+content cost = 17888.9
+style cost = 1.09E+7
+iteration time = 1.17
+Total time = 120.83
+
+Iteration 102 : 
+
+total cost = 1.08E+10
+content cost = 17921.486
+style cost = 1.08E+7
+iteration time = 1.17
+Total time = 122.02
+
+Iteration 103 : 
+
+total cost = 1.06E+10
+content cost = 17953.475
+style cost = 1.06E+7
+iteration time = 1.17
+Total time = 123.19
+
+Iteration 104 : 
+
+total cost = 1.04E+10
+content cost = 17984.96
+style cost = 1.04E+7
+iteration time = 1.17
+Total time = 124.37
+
+Iteration 105 : 
+
+total cost = 1.02E+10
+content cost = 18015.734
+style cost = 1.02E+7
+iteration time = 1.17
+Total time = 125.55
+
+Iteration 106 : 
+
+total cost = 1.01E+10
+content cost = 18045.867
+style cost = 1.01E+7
+iteration time = 1.16
+Total time = 126.72
+
+Iteration 107 : 
+
+total cost = 9.93E+9
+content cost = 18075.33
+style cost = 9.93E+6
+iteration time = 1.17
+Total time = 127.89
+
+Iteration 108 : 
+
+total cost = 9.77E+9
+content cost = 18104.146
+style cost = 9.77E+6
+iteration time = 1.17
+Total time = 129.06
+
+Iteration 109 : 
+
+total cost = 9.62E+9
+content cost = 18132.326
+style cost = 9.62E+6
+iteration time = 1.16
+Total time = 130.24
+
+Iteration 110 : 
+
+total cost = 9.48E+9
+content cost = 18160.084
+style cost = 9.48E+6
+iteration time = 1.17
+Total time = 131.42
+
+Iteration 111 : 
+
+total cost = 9.34E+9
+content cost = 18187.424
+style cost = 9.34E+6
+iteration time = 1.17
+Total time = 132.60
+
+Iteration 112 : 
+
+total cost = 9.20E+9
+content cost = 18214.332
+style cost = 9.20E+6
+iteration time = 1.17
+Total time = 133.76
+
+Iteration 113 : 
+
+total cost = 9.07E+9
+content cost = 18240.936
+style cost = 9.07E+6
+iteration time = 1.17
+Total time = 134.95
+
+Iteration 114 : 
+
+total cost = 8.94E+9
+content cost = 18267.207
+style cost = 8.94E+6
+iteration time = 1.17
+Total time = 136.12
+
+Iteration 115 : 
+
+total cost = 8.81E+9
+content cost = 18293.18
+style cost = 8.81E+6
+iteration time = 1.16
+Total time = 137.28
+
+Iteration 116 : 
+
+total cost = 8.69E+9
+content cost = 18318.773
+style cost = 8.69E+6
+iteration time = 1.17
+Total time = 138.47
+
+Iteration 117 : 
+
+total cost = 8.57E+9
+content cost = 18343.914
+style cost = 8.57E+6
+iteration time = 1.17
+Total time = 139.64
+
+Iteration 118 : 
+
+total cost = 8.46E+9
+content cost = 18368.719
+style cost = 8.46E+6
+iteration time = 1.18
+Total time = 140.82
+
+Iteration 119 : 
+
+total cost = 8.34E+9
+content cost = 18393.242
+style cost = 8.34E+6
+iteration time = 1.16
+Total time = 141.98
+
+Iteration 120 : 
+
+total cost = 8.23E+9
+content cost = 18417.44
+style cost = 8.23E+6
+iteration time = 1.17
+Total time = 143.17
+
+Iteration 121 : 
+
+total cost = 8.13E+9
+content cost = 18441.248
+style cost = 8.13E+6
+iteration time = 1.17
+Total time = 144.34
+
+Iteration 122 : 
+
+total cost = 8.02E+9
+content cost = 18464.643
+style cost = 8.02E+6
+iteration time = 1.18
+Total time = 145.52
+
+Iteration 123 : 
+
+total cost = 7.92E+9
+content cost = 18487.678
+style cost = 7.92E+6
+iteration time = 1.16
+Total time = 146.69
+
+Iteration 124 : 
+
+total cost = 7.82E+9
+content cost = 18510.19
+style cost = 7.82E+6
+iteration time = 1.17
+Total time = 147.86
+
+Iteration 125 : 
+
+total cost = 7.73E+9
+content cost = 18532.215
+style cost = 7.73E+6
+iteration time = 1.18
+Total time = 149.06
+
+Iteration 126 : 
+
+total cost = 7.63E+9
+content cost = 18553.807
+style cost = 7.63E+6
+iteration time = 1.16
+Total time = 150.22
+
+Iteration 127 : 
+
+total cost = 7.54E+9
+content cost = 18574.883
+style cost = 7.54E+6
+iteration time = 1.16
+Total time = 151.39
+
+Iteration 128 : 
+
+total cost = 7.45E+9
+content cost = 18595.75
+style cost = 7.45E+6
+iteration time = 1.17
+Total time = 152.56
+
+Iteration 129 : 
+
+total cost = 7.37E+9
+content cost = 18616.4
+style cost = 7.37E+6
+iteration time = 1.17
+Total time = 153.75
+
+Iteration 130 : 
+
+total cost = 7.28E+9
+content cost = 18636.742
+style cost = 7.28E+6
+iteration time = 1.17
+Total time = 154.92
+
+Iteration 131 : 
+
+total cost = 7.20E+9
+content cost = 18656.662
+style cost = 7.20E+6
+iteration time = 1.18
+Total time = 156.10
+
+Iteration 132 : 
+
+total cost = 7.12E+9
+content cost = 18676.158
+style cost = 7.12E+6
+iteration time = 1.18
+Total time = 157.28
+
+Iteration 133 : 
+
+total cost = 7.04E+9
+content cost = 18695.465
+style cost = 7.04E+6
+iteration time = 1.16
+Total time = 158.44
+
+Iteration 134 : 
+
+total cost = 6.97E+9
+content cost = 18714.6
+style cost = 6.97E+6
+iteration time = 1.15
+Total time = 159.61
+
+Iteration 135 : 
+
+total cost = 6.89E+9
+content cost = 18733.492
+style cost = 6.89E+6
+iteration time = 1.17
+Total time = 160.79
+
+Iteration 136 : 
+
+total cost = 6.82E+9
+content cost = 18752.217
+style cost = 6.82E+6
+iteration time = 1.16
+Total time = 161.96
+
+Iteration 137 : 
+
+total cost = 6.75E+9
+content cost = 18770.709
+style cost = 6.75E+6
+iteration time = 1.17
+Total time = 163.13
+
+Iteration 138 : 
+
+total cost = 6.68E+9
+content cost = 18789.041
+style cost = 6.68E+6
+iteration time = 1.17
+Total time = 164.31
+
+Iteration 139 : 
+
+total cost = 6.61E+9
+content cost = 18807.285
+style cost = 6.61E+6
+iteration time = 1.16
+Total time = 165.47
+
+Iteration 140 : 
+
+total cost = 6.54E+9
+content cost = 18825.281
+style cost = 6.54E+6
+iteration time = 1.17
+Total time = 166.66
+
+Iteration 141 : 
+
+total cost = 6.48E+9
+content cost = 18843.01
+style cost = 6.48E+6
+iteration time = 1.17
+Total time = 167.83
+
+Iteration 142 : 
+
+total cost = 6.41E+9
+content cost = 18860.639
+style cost = 6.41E+6
+iteration time = 1.17
+Total time = 169.00
+
+Iteration 143 : 
+
+total cost = 6.35E+9
+content cost = 18878.066
+style cost = 6.35E+6
+iteration time = 1.18
+Total time = 170.18
+
+Iteration 144 : 
+
+total cost = 6.29E+9
+content cost = 18895.371
+style cost = 6.29E+6
+iteration time = 1.17
+Total time = 171.35
+
+Iteration 145 : 
+
+total cost = 6.23E+9
+content cost = 18912.537
+style cost = 6.23E+6
+iteration time = 1.17
+Total time = 172.52
+
+Iteration 146 : 
+
+total cost = 6.17E+9
+content cost = 18929.654
+style cost = 6.17E+6
+iteration time = 1.18
+Total time = 173.70
+
+Iteration 147 : 
+
+total cost = 6.11E+9
+content cost = 18946.572
+style cost = 6.11E+6
+iteration time = 1.18
+Total time = 174.88
+
+Iteration 148 : 
+
+total cost = 6.06E+9
+content cost = 18963.338
+style cost = 6.06E+6
+iteration time = 1.17
+Total time = 176.06
+
+Iteration 149 : 
+
+total cost = 6.00E+9
+content cost = 18980.014
+style cost = 6.00E+6
+iteration time = 1.16
+Total time = 177.23
+
+Iteration 150 : 
+
+total cost = 5.95E+9
+content cost = 18996.52
+style cost = 5.95E+6
+iteration time = 1.15
+Total time = 178.40
+
+Iteration 151 : 
+
+total cost = 5.90E+9
+content cost = 19012.82
+style cost = 5.90E+6
+iteration time = 1.17
+Total time = 179.58
+
+Iteration 152 : 
+
+total cost = 5.84E+9
+content cost = 19029.016
+style cost = 5.84E+6
+iteration time = 1.17
+Total time = 180.75
+
+Iteration 153 : 
+
+total cost = 5.79E+9
+content cost = 19045.143
+style cost = 5.79E+6
+iteration time = 1.16
+Total time = 181.93
+
+Iteration 154 : 
+
+total cost = 5.75E+9
+content cost = 19061.139
+style cost = 5.75E+6
+iteration time = 1.17
+Total time = 183.10
+
+Iteration 155 : 
+
+total cost = 5.70E+9
+content cost = 19076.783
+style cost = 5.70E+6
+iteration time = 1.17
+Total time = 184.28
+
+Iteration 156 : 
+
+total cost = 5.65E+9
+content cost = 19092.197
+style cost = 5.65E+6
+iteration time = 1.17
+Total time = 185.45
+
+Iteration 157 : 
+
+total cost = 5.60E+9
+content cost = 19107.33
+style cost = 5.60E+6
+iteration time = 1.18
+Total time = 186.63
+
+Iteration 158 : 
+
+total cost = 5.56E+9
+content cost = 19122.285
+style cost = 5.56E+6
+iteration time = 1.16
+Total time = 187.79
+
+Iteration 159 : 
+
+total cost = 5.51E+9
+content cost = 19136.879
+style cost = 5.51E+6
+iteration time = 1.17
+Total time = 188.98
+
+ Total time to run program: 188.98

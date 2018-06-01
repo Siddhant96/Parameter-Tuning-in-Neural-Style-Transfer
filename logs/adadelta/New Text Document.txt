@@ -1,0 +1,29 @@
+		RATE=1.1
+Iteration 0 :
+total cost = 1.93E+10
+content cost = 262.11432
+style cost = 1.93E+8
+RMSE:  0.025
+ssim =  1.0
+time for iteration :  1.24
+Total time elapsed :  1.24
+
+Iteration 149 :
+total cost = 1.91E+10
+content cost = 266.81946
+style cost = 1.91E+8
+RMSE:  0.026
+ssim =  1.0
+time for iteration :  1.22
+Total time elapsed :  191.30
+
+		RATE=0.01
+Iteration 0 :
+total cost = 1.93E+10
+content cost = 266.8074
+style cost = 1.93E+8
+RMSE:  0.002
+ssim =  1.0
+time for iteration :  3.70
+Total time elapsed :  3.70
+

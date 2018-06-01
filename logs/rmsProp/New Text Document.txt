@@ -1,0 +1,40 @@
+		RATE=2
+avg. time for iter = 1.5
+total time = 212.27
+
+Iteration 0 :
+total cost = 2.33E+10
+content cost = 6156.133
+style cost = 2.33E+8
+RMSE:  6.339
+ssim =  0.805
+time for iteration :  1.38
+Total time elapsed :  1.38
+
+Iteration 149 :
+total cost = 7.07E+8
+content cost = 20193.74
+style cost = 7.07E+6
+RMSE:  1.198
+ssim =  0.998
+time for iteration :  1.36
+Total time elapsed :  212.27
+
+		RATE=0.1
+Iteration 0 :
+total cost = 2.38E+10
+content cost = 322.94675
+style cost = 2.38E+8
+RMSE:  0.561
+ssim =  0.998
+time for iteration :  4.43
+Total time elapsed :  4.43
+
+Iteration 149 :
+total cost = 9.77E+9
+content cost = 10563.536
+style cost = 9.77E+7
+RMSE:  0.289
+ssim =  1.0
+time for iteration :  1.37
+Total time elapsed :  215.33

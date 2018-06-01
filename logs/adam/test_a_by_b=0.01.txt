@@ -1,0 +1,1603 @@
+
+
+Iteration 0 : 
+
+total cost = 2.70E+11
+content cost = 9543.206
+style cost = 2.70E+8RMSE: 2.0SSIM = 0.9874068688630437
+iteration time = 3.44
+Total time = 3.44
+
+Iteration 1 : 
+
+total cost = 2.31E+11
+content cost = 10067.182
+style cost = 2.31E+8RMSE: 1.793SSIM = 0.9915117483956276
+iteration time = 1.22
+Total time = 4.74
+
+Iteration 2 : 
+
+total cost = 1.95E+11
+content cost = 10901.281
+style cost = 1.95E+8RMSE: 1.727SSIM = 0.9930798656988765
+iteration time = 1.22
+Total time = 6.03
+
+Iteration 3 : 
+
+total cost = 1.65E+11
+content cost = 11842.678
+style cost = 1.65E+8RMSE: 1.684SSIM = 0.9942249918435891
+iteration time = 1.20
+Total time = 7.33
+
+Iteration 4 : 
+
+total cost = 1.41E+11
+content cost = 12783.666
+style cost = 1.41E+8RMSE: 1.634SSIM = 0.9951808962283293
+iteration time = 1.21
+Total time = 8.62
+
+Iteration 5 : 
+
+total cost = 1.22E+11
+content cost = 13622.014
+style cost = 1.22E+8RMSE: 1.575SSIM = 0.9959501064203166
+iteration time = 1.21
+Total time = 9.91
+
+Iteration 6 : 
+
+total cost = 1.08E+11
+content cost = 14271.627
+style cost = 1.08E+8RMSE: 1.507SSIM = 0.9965771202336436
+iteration time = 1.20
+Total time = 11.19
+
+Iteration 7 : 
+
+total cost = 9.50E+10
+content cost = 14702.024
+style cost = 9.50E+7RMSE: 1.444SSIM = 0.9970423873715726
+iteration time = 1.20
+Total time = 12.47
+
+Iteration 8 : 
+
+total cost = 8.41E+10
+content cost = 14939.533
+style cost = 8.41E+7RMSE: 1.392SSIM = 0.997391610614887
+iteration time = 1.23
+Total time = 13.77
+
+Iteration 9 : 
+
+total cost = 7.49E+10
+content cost = 15042.281
+style cost = 7.49E+7RMSE: 1.346SSIM = 0.9976913011617822
+iteration time = 1.21
+Total time = 15.06
+
+Iteration 10 : 
+
+total cost = 6.76E+10
+content cost = 15078.645
+style cost = 6.76E+7RMSE: 1.299SSIM = 0.9979747176723958
+iteration time = 1.20
+Total time = 16.33
+
+Iteration 11 : 
+
+total cost = 6.21E+10
+content cost = 15114.815
+style cost = 6.21E+7RMSE: 1.249SSIM = 0.9982424924814666
+iteration time = 1.20
+Total time = 17.61
+
+Iteration 12 : 
+
+total cost = 5.78E+10
+content cost = 15194.196
+style cost = 5.78E+7RMSE: 1.193SSIM = 0.9985067262183493
+iteration time = 1.21
+Total time = 18.90
+
+Iteration 13 : 
+
+total cost = 5.44E+10
+content cost = 15336.198
+style cost = 5.44E+7RMSE: 1.137SSIM = 0.9987298532283498
+iteration time = 1.21
+Total time = 20.18
+
+Iteration 14 : 
+
+total cost = 5.13E+10
+content cost = 15543.966
+style cost = 5.13E+7RMSE: 1.085SSIM = 0.9989098066241899
+iteration time = 1.20
+Total time = 21.46
+
+Iteration 15 : 
+
+total cost = 4.84E+10
+content cost = 15805.0625
+style cost = 4.84E+7RMSE: 1.038SSIM = 0.999049464283086
+iteration time = 1.22
+Total time = 22.75
+
+Iteration 16 : 
+
+total cost = 4.57E+10
+content cost = 16099.669
+style cost = 4.57E+7RMSE: 1.002SSIM = 0.9991428962310284
+iteration time = 1.21
+Total time = 24.03
+
+Iteration 17 : 
+
+total cost = 4.30E+10
+content cost = 16402.758
+style cost = 4.30E+7RMSE: 0.968SSIM = 0.9992213423156556
+iteration time = 1.21
+Total time = 25.31
+
+Iteration 18 : 
+
+total cost = 4.04E+10
+content cost = 16688.998
+style cost = 4.04E+7RMSE: 0.941SSIM = 0.9992817322453038
+iteration time = 1.21
+Total time = 26.60
+
+Iteration 19 : 
+
+total cost = 3.76E+10
+content cost = 16939.139
+style cost = 3.76E+7RMSE: 0.92SSIM = 0.9993281011372958
+iteration time = 1.21
+Total time = 27.90
+
+Iteration 20 : 
+
+total cost = 3.49E+10
+content cost = 17145.98
+style cost = 3.49E+7RMSE: 0.903SSIM = 0.9993672704662542
+iteration time = 1.21
+Total time = 29.19
+
+Iteration 21 : 
+
+total cost = 3.21E+10
+content cost = 17307.238
+style cost = 3.21E+7RMSE: 0.89SSIM = 0.9993999147844871
+iteration time = 1.22
+Total time = 30.48
+
+Iteration 22 : 
+
+total cost = 2.96E+10
+content cost = 17432.174
+style cost = 2.96E+7RMSE: 0.876SSIM = 0.9994306397951059
+iteration time = 1.20
+Total time = 31.76
+
+Iteration 23 : 
+
+total cost = 2.72E+10
+content cost = 17534.271
+style cost = 2.72E+7RMSE: 0.863SSIM = 0.999457607036295
+iteration time = 1.22
+Total time = 33.05
+
+Iteration 24 : 
+
+total cost = 2.51E+10
+content cost = 17628.908
+style cost = 2.51E+7RMSE: 0.847SSIM = 0.9994848120362297
+iteration time = 1.21
+Total time = 34.33
+
+Iteration 25 : 
+
+total cost = 2.33E+10
+content cost = 17723.854
+style cost = 2.33E+7RMSE: 0.831SSIM = 0.9995104830816817
+iteration time = 1.22
+Total time = 35.62
+
+Iteration 26 : 
+
+total cost = 2.17E+10
+content cost = 17824.031
+style cost = 2.17E+7RMSE: 0.811SSIM = 0.9995385170086203
+iteration time = 1.21
+Total time = 36.91
+
+Iteration 27 : 
+
+total cost = 2.04E+10
+content cost = 17929.955
+style cost = 2.04E+7RMSE: 0.79SSIM = 0.9995664598025104
+iteration time = 1.22
+Total time = 38.20
+
+Iteration 28 : 
+
+total cost = 1.93E+10
+content cost = 18036.209
+style cost = 1.93E+7RMSE: 0.767SSIM = 0.9995966501668576
+iteration time = 1.22
+Total time = 39.48
+
+Iteration 29 : 
+
+total cost = 1.84E+10
+content cost = 18137.256
+style cost = 1.84E+7RMSE: 0.743SSIM = 0.9996268608036439
+iteration time = 1.20
+Total time = 40.77
+
+Iteration 30 : 
+
+total cost = 1.76E+10
+content cost = 18226.01
+style cost = 1.76E+7RMSE: 0.72SSIM = 0.9996535854932352
+iteration time = 1.20
+Total time = 42.06
+
+Iteration 31 : 
+
+total cost = 1.69E+10
+content cost = 18300.107
+style cost = 1.69E+7RMSE: 0.698SSIM = 0.9996776833060123
+iteration time = 1.20
+Total time = 43.34
+
+Iteration 32 : 
+
+total cost = 1.62E+10
+content cost = 18360.887
+style cost = 1.62E+7RMSE: 0.68SSIM = 0.9996980248788034
+iteration time = 1.20
+Total time = 44.63
+
+Iteration 33 : 
+
+total cost = 1.55E+10
+content cost = 18411.707
+style cost = 1.55E+7RMSE: 0.662SSIM = 0.9997153097467587
+iteration time = 1.21
+Total time = 45.92
+
+Iteration 34 : 
+
+total cost = 1.48E+10
+content cost = 18457.098
+style cost = 1.48E+7RMSE: 0.648SSIM = 0.9997292254059543
+iteration time = 1.21
+Total time = 47.19
+
+Iteration 35 : 
+
+total cost = 1.42E+10
+content cost = 18503.377
+style cost = 1.42E+7RMSE: 0.632SSIM = 0.9997442216395857
+iteration time = 1.23
+Total time = 48.49
+
+Iteration 36 : 
+
+total cost = 1.37E+10
+content cost = 18554.775
+style cost = 1.37E+7RMSE: 0.617SSIM = 0.9997577704910611
+iteration time = 1.21
+Total time = 49.78
+
+Iteration 37 : 
+
+total cost = 1.32E+10
+content cost = 18613.004
+style cost = 1.32E+7RMSE: 0.605SSIM = 0.9997684409956986
+iteration time = 1.21
+Total time = 51.06
+
+Iteration 38 : 
+
+total cost = 1.27E+10
+content cost = 18677.834
+style cost = 1.27E+7RMSE: 0.591SSIM = 0.9997806332257854
+iteration time = 1.20
+Total time = 52.34
+
+Iteration 39 : 
+
+total cost = 1.23E+10
+content cost = 18745.678
+style cost = 1.23E+7RMSE: 0.58SSIM = 0.9997888530360184
+iteration time = 1.22
+Total time = 53.63
+
+Iteration 40 : 
+
+total cost = 1.19E+10
+content cost = 18813.39
+style cost = 1.19E+7RMSE: 0.567SSIM = 0.9997977936027889
+iteration time = 1.21
+Total time = 54.92
+
+Iteration 41 : 
+
+total cost = 1.16E+10
+content cost = 18876.807
+style cost = 1.16E+7RMSE: 0.556SSIM = 0.9998063409056224
+iteration time = 1.21
+Total time = 56.19
+
+Iteration 42 : 
+
+total cost = 1.12E+10
+content cost = 18933.236
+style cost = 1.12E+7RMSE: 0.545SSIM = 0.999813409657312
+iteration time = 1.22
+Total time = 57.48
+
+Iteration 43 : 
+
+total cost = 1.09E+10
+content cost = 18981.594
+style cost = 1.09E+7RMSE: 0.532SSIM = 0.9998220353759368
+iteration time = 1.21
+Total time = 58.77
+
+Iteration 44 : 
+
+total cost = 1.06E+10
+content cost = 19022.895
+style cost = 1.06E+7RMSE: 0.522SSIM = 0.9998287625588748
+iteration time = 1.21
+Total time = 60.06
+
+Iteration 45 : 
+
+total cost = 1.03E+10
+content cost = 19060.383
+style cost = 1.03E+7RMSE: 0.513SSIM = 0.9998341856318164
+iteration time = 1.22
+Total time = 61.33
+
+Iteration 46 : 
+
+total cost = 1.01E+10
+content cost = 19098.049
+style cost = 1.01E+7RMSE: 0.505SSIM = 0.9998397258226922
+iteration time = 1.22
+Total time = 62.62
+
+Iteration 47 : 
+
+total cost = 9.79E+9
+content cost = 19139.36
+style cost = 9.79E+6RMSE: 0.497SSIM = 0.9998439270481049
+iteration time = 1.22
+Total time = 63.92
+
+Iteration 48 : 
+
+total cost = 9.52E+9
+content cost = 19186.045
+style cost = 9.52E+6RMSE: 0.492SSIM = 0.9998471041202636
+iteration time = 1.23
+Total time = 65.22
+
+Iteration 49 : 
+
+total cost = 9.26E+9
+content cost = 19237.764
+style cost = 9.26E+6RMSE: 0.486SSIM = 0.9998506983577627
+iteration time = 1.20
+Total time = 66.53
+
+Iteration 50 : 
+
+total cost = 9.02E+9
+content cost = 19293.016
+style cost = 9.02E+6RMSE: 0.479SSIM = 0.9998550800135141
+iteration time = 1.20
+Total time = 67.81
+
+Iteration 51 : 
+
+total cost = 8.80E+9
+content cost = 19349.102
+style cost = 8.80E+6RMSE: 0.473SSIM = 0.999858384900131
+iteration time = 1.20
+Total time = 69.15
+
+Iteration 52 : 
+
+total cost = 8.59E+9
+content cost = 19403.041
+style cost = 8.59E+6RMSE: 0.467SSIM = 0.9998621537087566
+iteration time = 1.21
+Total time = 70.44
+
+Iteration 53 : 
+
+total cost = 8.39E+9
+content cost = 19452.414
+style cost = 8.39E+6RMSE: 0.461SSIM = 0.9998657499719932
+iteration time = 1.23
+Total time = 71.75
+
+Iteration 54 : 
+
+total cost = 8.20E+9
+content cost = 19495.66
+style cost = 8.20E+6RMSE: 0.455SSIM = 0.9998696063947982
+iteration time = 1.20
+Total time = 73.13
+
+Iteration 55 : 
+
+total cost = 8.01E+9
+content cost = 19534.084
+style cost = 8.01E+6RMSE: 0.45SSIM = 0.9998724695317622
+iteration time = 1.22
+Total time = 74.42
+
+Iteration 56 : 
+
+total cost = 7.84E+9
+content cost = 19570.44
+style cost = 7.84E+6RMSE: 0.446SSIM = 0.9998747924630353
+iteration time = 1.20
+Total time = 75.71
+
+Iteration 57 : 
+
+total cost = 7.67E+9
+content cost = 19607.713
+style cost = 7.67E+6RMSE: 0.44SSIM = 0.9998781993771986
+iteration time = 1.20
+Total time = 76.99
+
+Iteration 58 : 
+
+total cost = 7.51E+9
+content cost = 19648.52
+style cost = 7.51E+6RMSE: 0.435SSIM = 0.9998811943091163
+iteration time = 1.20
+Total time = 78.30
+
+Iteration 59 : 
+
+total cost = 7.36E+9
+content cost = 19694.033
+style cost = 7.36E+6RMSE: 0.43SSIM = 0.999883920471059
+iteration time = 1.22
+Total time = 79.65
+
+Iteration 60 : 
+
+total cost = 7.21E+9
+content cost = 19743.82
+style cost = 7.21E+6RMSE: 0.426SSIM = 0.9998860567766327
+iteration time = 1.22
+Total time = 80.99
+
+Iteration 61 : 
+
+total cost = 7.07E+9
+content cost = 19795.832
+style cost = 7.07E+6RMSE: 0.422SSIM = 0.9998884852408086
+iteration time = 1.20
+Total time = 82.29
+
+Iteration 62 : 
+
+total cost = 6.93E+9
+content cost = 19847.44
+style cost = 6.93E+6RMSE: 0.418SSIM = 0.9998906148958868
+iteration time = 1.20
+Total time = 83.64
+
+Iteration 63 : 
+
+total cost = 6.80E+9
+content cost = 19895.96
+style cost = 6.80E+6RMSE: 0.416SSIM = 0.9998926166967067
+iteration time = 1.21
+Total time = 84.95
+
+Iteration 64 : 
+
+total cost = 6.67E+9
+content cost = 19939.477
+style cost = 6.67E+6RMSE: 0.41SSIM = 0.9998945474355329
+iteration time = 1.22
+Total time = 86.24
+
+Iteration 65 : 
+
+total cost = 6.54E+9
+content cost = 19978.324
+style cost = 6.54E+6RMSE: 0.407SSIM = 0.999896755309738
+iteration time = 1.20
+Total time = 87.54
+
+Iteration 66 : 
+
+total cost = 6.42E+9
+content cost = 20013.77
+style cost = 6.42E+6RMSE: 0.406SSIM = 0.9998976983732225
+iteration time = 1.22
+Total time = 88.84
+
+Iteration 67 : 
+
+total cost = 6.31E+9
+content cost = 20047.932
+style cost = 6.31E+6RMSE: 0.4SSIM = 0.9998998968586422
+iteration time = 1.20
+Total time = 90.15
+
+Iteration 68 : 
+
+total cost = 6.20E+9
+content cost = 20083.023
+style cost = 6.20E+6RMSE: 0.398SSIM = 0.9999017013635703
+iteration time = 1.22
+Total time = 91.43
+
+Iteration 69 : 
+
+total cost = 6.09E+9
+content cost = 20120.75
+style cost = 6.09E+6RMSE: 0.394SSIM = 0.9999033043289168
+iteration time = 1.20
+Total time = 92.72
+
+Iteration 70 : 
+
+total cost = 5.98E+9
+content cost = 20161.066
+style cost = 5.98E+6RMSE: 0.391SSIM = 0.9999052890049084
+iteration time = 1.22
+Total time = 94.04
+
+Iteration 71 : 
+
+total cost = 5.88E+9
+content cost = 20202.879
+style cost = 5.88E+6RMSE: 0.389SSIM = 0.9999059753992449
+iteration time = 1.21
+Total time = 95.37
+
+Iteration 72 : 
+
+total cost = 5.78E+9
+content cost = 20244.498
+style cost = 5.78E+6RMSE: 0.386SSIM = 0.9999076843735478
+iteration time = 1.23
+Total time = 96.72
+
+Iteration 73 : 
+
+total cost = 5.68E+9
+content cost = 20283.652
+style cost = 5.68E+6RMSE: 0.385SSIM = 0.9999083899763761
+iteration time = 1.21
+Total time = 98.03
+
+Iteration 74 : 
+
+total cost = 5.59E+9
+content cost = 20319.193
+style cost = 5.59E+6RMSE: 0.381SSIM = 0.9999098310367946
+iteration time = 1.22
+Total time = 99.31
+
+Iteration 75 : 
+
+total cost = 5.50E+9
+content cost = 20350.87
+style cost = 5.50E+6RMSE: 0.378SSIM = 0.9999114951954086
+iteration time = 1.20
+Total time = 100.60
+
+Iteration 76 : 
+
+total cost = 5.41E+9
+content cost = 20379.719
+style cost = 5.41E+6RMSE: 0.375SSIM = 0.9999127929024842
+iteration time = 1.22
+Total time = 101.90
+
+Iteration 77 : 
+
+total cost = 5.33E+9
+content cost = 20407.396
+style cost = 5.33E+6RMSE: 0.374SSIM = 0.9999133256823128
+iteration time = 1.21
+Total time = 103.22
+
+Iteration 78 : 
+
+total cost = 5.25E+9
+content cost = 20435.69
+style cost = 5.25E+6RMSE: 0.37SSIM = 0.9999154031515692
+iteration time = 1.20
+Total time = 104.50
+
+Iteration 79 : 
+
+total cost = 5.17E+9
+content cost = 20465.5
+style cost = 5.17E+6RMSE: 0.369SSIM = 0.9999158842092132
+iteration time = 1.22
+Total time = 105.80
+
+Iteration 80 : 
+
+total cost = 5.09E+9
+content cost = 20497.123
+style cost = 5.09E+6RMSE: 0.365SSIM = 0.9999175546137365
+iteration time = 1.20
+Total time = 107.07
+
+Iteration 81 : 
+
+total cost = 5.01E+9
+content cost = 20529.527
+style cost = 5.01E+6RMSE: 0.363SSIM = 0.9999187603309206
+iteration time = 1.20
+Total time = 108.36
+
+Iteration 82 : 
+
+total cost = 4.94E+9
+content cost = 20561.654
+style cost = 4.94E+6RMSE: 0.361SSIM = 0.9999198944002732
+iteration time = 1.22
+Total time = 109.67
+
+Iteration 83 : 
+
+total cost = 4.87E+9
+content cost = 20592.607
+style cost = 4.87E+6RMSE: 0.359SSIM = 0.9999207203558841
+iteration time = 1.21
+Total time = 110.98
+
+Iteration 84 : 
+
+total cost = 4.80E+9
+content cost = 20621.71
+style cost = 4.80E+6RMSE: 0.357SSIM = 0.9999216721581936
+iteration time = 1.21
+Total time = 112.26
+
+Iteration 85 : 
+
+total cost = 4.73E+9
+content cost = 20649.012
+style cost = 4.73E+6RMSE: 0.358SSIM = 0.9999213828787772
+iteration time = 1.22
+Total time = 113.57
+
+Iteration 86 : 
+
+total cost = 4.66E+9
+content cost = 20675.344
+style cost = 4.66E+6RMSE: 0.351SSIM = 0.9999238721928831
+iteration time = 1.22
+Total time = 114.88
+
+Iteration 87 : 
+
+total cost = 4.60E+9
+content cost = 20701.781
+style cost = 4.60E+6RMSE: 0.351SSIM = 0.9999243377068908
+iteration time = 1.21
+Total time = 116.19
+
+Iteration 88 : 
+
+total cost = 4.54E+9
+content cost = 20729.07
+style cost = 4.54E+6RMSE: 0.349SSIM = 0.9999255402533437
+iteration time = 1.20
+Total time = 117.47
+
+Iteration 89 : 
+
+total cost = 4.47E+9
+content cost = 20757.574
+style cost = 4.47E+6RMSE: 0.346SSIM = 0.9999264457072625
+iteration time = 1.21
+Total time = 118.77
+
+Iteration 90 : 
+
+total cost = 4.41E+9
+content cost = 20787.012
+style cost = 4.41E+6RMSE: 0.346SSIM = 0.9999269015933221
+iteration time = 1.21
+Total time = 120.09
+
+Iteration 91 : 
+
+total cost = 4.36E+9
+content cost = 20816.506
+style cost = 4.36E+6RMSE: 0.344SSIM = 0.9999276901278712
+iteration time = 1.21
+Total time = 121.40
+
+Iteration 92 : 
+
+total cost = 4.30E+9
+content cost = 20844.996
+style cost = 4.30E+6RMSE: 0.341SSIM = 0.9999288238265814
+iteration time = 1.21
+Total time = 122.72
+
+Iteration 93 : 
+
+total cost = 4.24E+9
+content cost = 20871.63
+style cost = 4.24E+6RMSE: 0.339SSIM = 0.9999299737620557
+iteration time = 1.21
+Total time = 124.00
+
+Iteration 94 : 
+
+total cost = 4.19E+9
+content cost = 20896.357
+style cost = 4.19E+6RMSE: 0.339SSIM = 0.9999298101516437
+iteration time = 1.22
+Total time = 125.28
+
+Iteration 95 : 
+
+total cost = 4.14E+9
+content cost = 20919.473
+style cost = 4.14E+6RMSE: 0.336SSIM = 0.9999307911130965
+iteration time = 1.20
+Total time = 126.55
+
+Iteration 96 : 
+
+total cost = 4.08E+9
+content cost = 20941.723
+style cost = 4.08E+6RMSE: 0.334SSIM = 0.9999315478149217
+iteration time = 1.20
+Total time = 127.84
+
+Iteration 97 : 
+
+total cost = 4.03E+9
+content cost = 20963.904
+style cost = 4.03E+6RMSE: 0.335SSIM = 0.9999318622127635
+iteration time = 1.20
+Total time = 129.12
+
+Iteration 98 : 
+
+total cost = 3.98E+9
+content cost = 20986.639
+style cost = 3.98E+6RMSE: 0.331SSIM = 0.9999332378734906
+iteration time = 1.20
+Total time = 130.41
+
+Iteration 99 : 
+
+total cost = 3.94E+9
+content cost = 21010.031
+style cost = 3.94E+6RMSE: 0.33SSIM = 0.9999339179622037
+iteration time = 1.22
+Total time = 131.74
+
+Iteration 100 : 
+
+total cost = 3.89E+9
+content cost = 21033.71
+style cost = 3.89E+6RMSE: 0.327SSIM = 0.9999347755420125
+iteration time = 1.20
+Total time = 133.02
+
+Iteration 101 : 
+
+total cost = 3.84E+9
+content cost = 21057.18
+style cost = 3.84E+6RMSE: 0.327SSIM = 0.9999347289250711
+iteration time = 1.22
+Total time = 134.31
+
+Iteration 102 : 
+
+total cost = 3.80E+9
+content cost = 21079.959
+style cost = 3.80E+6RMSE: 0.325SSIM = 0.9999355426968463
+iteration time = 1.22
+Total time = 135.64
+
+Iteration 103 : 
+
+total cost = 3.75E+9
+content cost = 21101.8
+style cost = 3.75E+6RMSE: 0.323SSIM = 0.9999365429931343
+iteration time = 1.21
+Total time = 136.92
+
+Iteration 104 : 
+
+total cost = 3.71E+9
+content cost = 21123.104
+style cost = 3.71E+6RMSE: 0.323SSIM = 0.9999367230579398
+iteration time = 1.20
+Total time = 138.19
+
+Iteration 105 : 
+
+total cost = 3.67E+9
+content cost = 21144.416
+style cost = 3.67E+6RMSE: 0.322SSIM = 0.9999367376999527
+iteration time = 1.20
+Total time = 139.50
+
+Iteration 106 : 
+
+total cost = 3.63E+9
+content cost = 21166.072
+style cost = 3.63E+6RMSE: 0.32SSIM = 0.99993770460811
+iteration time = 1.22
+Total time = 140.83
+
+Iteration 107 : 
+
+total cost = 3.59E+9
+content cost = 21188.28
+style cost = 3.59E+6RMSE: 0.318SSIM = 0.999938768296721
+iteration time = 1.20
+Total time = 142.13
+
+Iteration 108 : 
+
+total cost = 3.55E+9
+content cost = 21210.8
+style cost = 3.55E+6RMSE: 0.317SSIM = 0.9999392489086968
+iteration time = 1.22
+Total time = 143.42
+
+Iteration 109 : 
+
+total cost = 3.51E+9
+content cost = 21233.104
+style cost = 3.51E+6RMSE: 0.315SSIM = 0.9999397296460417
+iteration time = 1.20
+Total time = 144.73
+
+Iteration 110 : 
+
+total cost = 3.47E+9
+content cost = 21254.941
+style cost = 3.47E+6RMSE: 0.314SSIM = 0.9999399482929826
+iteration time = 1.21
+Total time = 146.03
+
+Iteration 111 : 
+
+total cost = 3.43E+9
+content cost = 21276.15
+style cost = 3.43E+6RMSE: 0.313SSIM = 0.999940688117745
+iteration time = 1.20
+Total time = 147.31
+
+Iteration 112 : 
+
+total cost = 3.40E+9
+content cost = 21296.69
+style cost = 3.40E+6RMSE: 0.311SSIM = 0.9999414938822726
+iteration time = 1.21
+Total time = 148.62
+
+Iteration 113 : 
+
+total cost = 3.36E+9
+content cost = 21317.04
+style cost = 3.36E+6RMSE: 0.311SSIM = 0.9999413645950285
+iteration time = 1.22
+Total time = 149.93
+
+Iteration 114 : 
+
+total cost = 3.32E+9
+content cost = 21337.475
+style cost = 3.32E+6RMSE: 0.308SSIM = 0.99994274604667
+iteration time = 1.21
+Total time = 151.21
+
+Iteration 115 : 
+
+total cost = 3.29E+9
+content cost = 21358.06
+style cost = 3.29E+6RMSE: 0.307SSIM = 0.9999429109494855
+iteration time = 1.21
+Total time = 152.52
+
+Iteration 116 : 
+
+total cost = 3.26E+9
+content cost = 21378.734
+style cost = 3.26E+6RMSE: 0.306SSIM = 0.9999429910637953
+iteration time = 1.22
+Total time = 153.80
+
+Iteration 117 : 
+
+total cost = 3.22E+9
+content cost = 21399.56
+style cost = 3.22E+6RMSE: 0.306SSIM = 0.9999432714813162
+iteration time = 1.21
+Total time = 155.08
+
+Iteration 118 : 
+
+total cost = 3.19E+9
+content cost = 21420.328
+style cost = 3.19E+6RMSE: 0.305SSIM = 0.9999434904921062
+iteration time = 1.21
+Total time = 156.36
+
+Iteration 119 : 
+
+total cost = 3.16E+9
+content cost = 21440.842
+style cost = 3.16E+6RMSE: 0.302SSIM = 0.9999443455391747
+iteration time = 1.21
+Total time = 157.69
+
+Iteration 120 : 
+
+total cost = 3.13E+9
+content cost = 21461.07
+style cost = 3.13E+6RMSE: 0.302SSIM = 0.999944849467667
+iteration time = 1.22
+Total time = 158.97
+
+Iteration 121 : 
+
+total cost = 3.09E+9
+content cost = 21481.137
+style cost = 3.09E+6RMSE: 0.299SSIM = 0.9999458542965008
+iteration time = 1.21
+Total time = 160.25
+
+Iteration 122 : 
+
+total cost = 3.06E+9
+content cost = 21501.1
+style cost = 3.06E+6RMSE: 0.299SSIM = 0.9999461526954555
+iteration time = 1.22
+Total time = 161.54
+
+Iteration 123 : 
+
+total cost = 3.03E+9
+content cost = 21521.373
+style cost = 3.03E+6RMSE: 0.298SSIM = 0.9999460554186806
+iteration time = 1.22
+Total time = 162.81
+
+Iteration 124 : 
+
+total cost = 3.01E+9
+content cost = 21541.963
+style cost = 3.01E+6RMSE: 0.298SSIM = 0.9999463064626982
+iteration time = 1.21
+Total time = 164.10
+
+Iteration 125 : 
+
+total cost = 2.98E+9
+content cost = 21562.67
+style cost = 2.98E+6RMSE: 0.297SSIM = 0.999946517741693
+iteration time = 1.22
+Total time = 165.38
+
+Iteration 126 : 
+
+total cost = 2.95E+9
+content cost = 21583.299
+style cost = 2.95E+6RMSE: 0.295SSIM = 0.9999472749751609
+iteration time = 1.22
+Total time = 166.68
+
+Iteration 127 : 
+
+total cost = 2.92E+9
+content cost = 21603.703
+style cost = 2.92E+6RMSE: 0.294SSIM = 0.9999476490148185
+iteration time = 1.22
+Total time = 167.98
+
+Iteration 128 : 
+
+total cost = 2.89E+9
+content cost = 21623.752
+style cost = 2.89E+6RMSE: 0.292SSIM = 0.9999482959713163
+iteration time = 1.20
+Total time = 169.28
+
+Iteration 129 : 
+
+total cost = 2.87E+9
+content cost = 21643.418
+style cost = 2.87E+6RMSE: 0.291SSIM = 0.9999486245586727
+iteration time = 1.21
+Total time = 170.57
+
+Iteration 130 : 
+
+total cost = 2.84E+9
+content cost = 21662.893
+style cost = 2.84E+6RMSE: 0.29SSIM = 0.9999491176388907
+iteration time = 1.22
+Total time = 171.85
+
+Iteration 131 : 
+
+total cost = 2.81E+9
+content cost = 21682.299
+style cost = 2.81E+6RMSE: 0.29SSIM = 0.9999490363504681
+iteration time = 1.20
+Total time = 173.13
+
+Iteration 132 : 
+
+total cost = 2.79E+9
+content cost = 21701.793
+style cost = 2.79E+6RMSE: 0.289SSIM = 0.9999497595241742
+iteration time = 1.21
+Total time = 174.41
+
+Iteration 133 : 
+
+total cost = 2.76E+9
+content cost = 21721.227
+style cost = 2.76E+6RMSE: 0.289SSIM = 0.9999496857887219
+iteration time = 1.22
+Total time = 175.70
+
+Iteration 134 : 
+
+total cost = 2.74E+9
+content cost = 21740.62
+style cost = 2.74E+6RMSE: 0.286SSIM = 0.999950594713639
+iteration time = 1.22
+Total time = 176.98
+
+Iteration 135 : 
+
+total cost = 2.71E+9
+content cost = 21759.885
+style cost = 2.71E+6RMSE: 0.285SSIM = 0.9999509853542986
+iteration time = 1.22
+Total time = 178.27
+
+Iteration 136 : 
+
+total cost = 2.69E+9
+content cost = 21778.832
+style cost = 2.69E+6RMSE: 0.286SSIM = 0.9999504664539529
+iteration time = 1.20
+Total time = 179.54
+
+Iteration 137 : 
+
+total cost = 2.67E+9
+content cost = 21797.406
+style cost = 2.67E+6RMSE: 0.283SSIM = 0.9999515013158016
+iteration time = 1.20
+Total time = 180.82
+
+Iteration 138 : 
+
+total cost = 2.64E+9
+content cost = 21815.568
+style cost = 2.64E+6RMSE: 0.285SSIM = 0.9999511016313566
+iteration time = 1.20
+Total time = 182.10
+
+Iteration 139 : 
+
+total cost = 2.62E+9
+content cost = 21833.498
+style cost = 2.62E+6RMSE: 0.282SSIM = 0.9999518686143077
+iteration time = 1.20
+Total time = 183.38
+
+Iteration 140 : 
+
+total cost = 2.60E+9
+content cost = 21851.371
+style cost = 2.60E+6RMSE: 0.282SSIM = 0.9999519494603332
+iteration time = 1.20
+Total time = 184.66
+
+Iteration 141 : 
+
+total cost = 2.58E+9
+content cost = 21869.312
+style cost = 2.58E+6RMSE: 0.28SSIM = 0.9999524092633839
+iteration time = 1.20
+Total time = 185.95
+
+Iteration 142 : 
+
+total cost = 2.55E+9
+content cost = 21887.285
+style cost = 2.55E+6RMSE: 0.279SSIM = 0.9999530364156586
+iteration time = 1.22
+Total time = 187.24
+
+Iteration 143 : 
+
+total cost = 2.53E+9
+content cost = 21905.156
+style cost = 2.53E+6RMSE: 0.279SSIM = 0.9999529079877981
+iteration time = 1.20
+Total time = 188.51
+
+Iteration 144 : 
+
+total cost = 2.51E+9
+content cost = 21922.877
+style cost = 2.51E+6RMSE: 0.277SSIM = 0.9999534284100172
+iteration time = 1.22
+Total time = 189.80
+
+Iteration 145 : 
+
+total cost = 2.49E+9
+content cost = 21940.428
+style cost = 2.49E+6RMSE: 0.278SSIM = 0.999953366019748
+iteration time = 1.22
+Total time = 191.08
+
+Iteration 146 : 
+
+total cost = 2.47E+9
+content cost = 21957.705
+style cost = 2.47E+6RMSE: 0.276SSIM = 0.9999541626110543
+iteration time = 1.22
+Total time = 192.37
+
+Iteration 147 : 
+
+total cost = 2.45E+9
+content cost = 21974.662
+style cost = 2.45E+6RMSE: 0.273SSIM = 0.9999548439696553
+iteration time = 1.20
+Total time = 193.64
+
+Iteration 148 : 
+
+total cost = 2.43E+9
+content cost = 21991.498
+style cost = 2.43E+6RMSE: 0.276SSIM = 0.9999540644450972
+iteration time = 1.22
+Total time = 194.93
+
+Iteration 149 : 
+
+total cost = 2.41E+9
+content cost = 22008.254
+style cost = 2.41E+6RMSE: 0.273SSIM = 0.99995493346813
+iteration time = 1.21
+Total time = 196.20
+
+Iteration 150 : 
+
+total cost = 2.39E+9
+content cost = 22025.094
+style cost = 2.39E+6RMSE: 0.273SSIM = 0.9999550181457537
+iteration time = 1.22
+Total time = 197.49
+
+Iteration 151 : 
+
+total cost = 2.37E+9
+content cost = 22041.904
+style cost = 2.37E+6RMSE: 0.271SSIM = 0.999955454913115
+iteration time = 1.20
+Total time = 198.76
+
+Iteration 152 : 
+
+total cost = 2.35E+9
+content cost = 22058.467
+style cost = 2.35E+6RMSE: 0.271SSIM = 0.9999553584384788
+iteration time = 1.21
+Total time = 200.06
+
+Iteration 153 : 
+
+total cost = 2.34E+9
+content cost = 22074.824
+style cost = 2.34E+6RMSE: 0.272SSIM = 0.9999551665658676
+iteration time = 1.21
+Total time = 201.34
+
+Iteration 154 : 
+
+total cost = 2.32E+9
+content cost = 22090.916
+style cost = 2.32E+6RMSE: 0.271SSIM = 0.9999556886778501
+iteration time = 1.22
+Total time = 202.61
+
+Iteration 155 : 
+
+total cost = 2.30E+9
+content cost = 22106.795
+style cost = 2.30E+6RMSE: 0.27SSIM = 0.999955871416233
+iteration time = 1.21
+Total time = 203.90
+
+Iteration 156 : 
+
+total cost = 2.28E+9
+content cost = 22122.633
+style cost = 2.28E+6RMSE: 0.268SSIM = 0.9999566158078906
+iteration time = 1.20
+Total time = 205.17
+
+Iteration 157 : 
+
+total cost = 2.26E+9
+content cost = 22138.467
+style cost = 2.26E+6RMSE: 0.267SSIM = 0.9999570391117372
+iteration time = 1.20
+Total time = 206.45
+
+Iteration 158 : 
+
+total cost = 2.25E+9
+content cost = 22154.318
+style cost = 2.25E+6RMSE: 0.266SSIM = 0.9999573623767911
+iteration time = 1.20
+Total time = 207.73
+
+Iteration 159 : 
+
+total cost = 2.23E+9
+content cost = 22170.035
+style cost = 2.23E+6RMSE: 0.266SSIM = 0.9999570094519342
+iteration time = 1.22
+Total time = 209.02
+
+Iteration 160 : 
+
+total cost = 2.21E+9
+content cost = 22185.611
+style cost = 2.21E+6RMSE: 0.267SSIM = 0.9999569494204886
+iteration time = 1.22
+Total time = 210.30
+
+Iteration 161 : 
+
+total cost = 2.20E+9
+content cost = 22200.984
+style cost = 2.20E+6RMSE: 0.263SSIM = 0.9999584588484494
+iteration time = 1.22
+Total time = 211.59
+
+Iteration 162 : 
+
+total cost = 2.18E+9
+content cost = 22216.219
+style cost = 2.18E+6RMSE: 0.264SSIM = 0.9999578653836464
+iteration time = 1.20
+Total time = 212.86
+
+Iteration 163 : 
+
+total cost = 2.16E+9
+content cost = 22231.469
+style cost = 2.16E+6RMSE: 0.264SSIM = 0.9999576381789747
+iteration time = 1.20
+Total time = 214.14
+
+Iteration 164 : 
+
+total cost = 2.15E+9
+content cost = 22246.71
+style cost = 2.15E+6RMSE: 0.262SSIM = 0.9999585325051301
+iteration time = 1.20
+Total time = 215.42
+
+Iteration 165 : 
+
+total cost = 2.13E+9
+content cost = 22261.91
+style cost = 2.13E+6RMSE: 0.262SSIM = 0.9999583189248987
+iteration time = 1.22
+Total time = 216.70
+
+Iteration 166 : 
+
+total cost = 2.12E+9
+content cost = 22277.049
+style cost = 2.12E+6RMSE: 0.261SSIM = 0.9999589160424626
+iteration time = 1.22
+Total time = 217.99
+
+Iteration 167 : 
+
+total cost = 2.10E+9
+content cost = 22292.06
+style cost = 2.10E+6RMSE: 0.261SSIM = 0.9999587602651956
+iteration time = 1.20
+Total time = 219.26
+
+Iteration 168 : 
+
+total cost = 2.09E+9
+content cost = 22306.857
+style cost = 2.09E+6RMSE: 0.259SSIM = 0.9999593131621812
+iteration time = 1.22
+Total time = 220.55
+
+Iteration 169 : 
+
+total cost = 2.07E+9
+content cost = 22321.56
+style cost = 2.07E+6RMSE: 0.259SSIM = 0.9999594420923223
+iteration time = 1.20
+Total time = 221.82
+
+Iteration 170 : 
+
+total cost = 2.06E+9
+content cost = 22336.193
+style cost = 2.06E+6RMSE: 0.259SSIM = 0.9999592361417277
+iteration time = 1.19
+Total time = 223.10
+
+Iteration 171 : 
+
+total cost = 2.04E+9
+content cost = 22350.799
+style cost = 2.04E+6RMSE: 0.258SSIM = 0.9999595410539676
+iteration time = 1.20
+Total time = 224.39
+
+Iteration 172 : 
+
+total cost = 2.03E+9
+content cost = 22365.377
+style cost = 2.03E+6RMSE: 0.257SSIM = 0.9999600914284553
+iteration time = 1.20
+Total time = 225.67
+
+Iteration 173 : 
+
+total cost = 2.01E+9
+content cost = 22379.93
+style cost = 2.01E+6RMSE: 0.258SSIM = 0.9999597558856076
+iteration time = 1.21
+Total time = 226.95
+
+Iteration 174 : 
+
+total cost = 2.00E+9
+content cost = 22394.408
+style cost = 2.00E+6RMSE: 0.255SSIM = 0.9999605860736889
+iteration time = 1.22
+Total time = 228.24
+
+Iteration 175 : 
+
+total cost = 1.99E+9
+content cost = 22408.814
+style cost = 1.99E+6RMSE: 0.256SSIM = 0.9999602411653191
+iteration time = 1.20
+Total time = 229.51
+
+Iteration 176 : 
+
+total cost = 1.97E+9
+content cost = 22423.1
+style cost = 1.97E+6RMSE: 0.255SSIM = 0.999960686855769
+iteration time = 1.20
+Total time = 230.79
+
+Iteration 177 : 
+
+total cost = 1.96E+9
+content cost = 22437.283
+style cost = 1.96E+6RMSE: 0.254SSIM = 0.9999608270498754
+iteration time = 1.21
+Total time = 232.08
+
+Iteration 178 : 
+
+total cost = 1.95E+9
+content cost = 22451.463
+style cost = 1.95E+6RMSE: 0.254SSIM = 0.9999608460830891
+iteration time = 1.21
+Total time = 233.36
+
+Iteration 179 : 
+
+total cost = 1.93E+9
+content cost = 22465.525
+style cost = 1.93E+6RMSE: 0.253SSIM = 0.9999612294052808
+iteration time = 1.21
+Total time = 234.65
+
+Iteration 180 : 
+
+total cost = 1.92E+9
+content cost = 22479.47
+style cost = 1.92E+6RMSE: 0.252SSIM = 0.9999612654301776
+iteration time = 1.21
+Total time = 235.93
+
+Iteration 181 : 
+
+total cost = 1.91E+9
+content cost = 22493.266
+style cost = 1.91E+6RMSE: 0.252SSIM = 0.9999612261178686
+iteration time = 1.22
+Total time = 237.21
+
+Iteration 182 : 
+
+total cost = 1.89E+9
+content cost = 22506.982
+style cost = 1.89E+6RMSE: 0.251SSIM = 0.999961894280898
+iteration time = 1.22
+Total time = 238.49
+
+Iteration 183 : 
+
+total cost = 1.88E+9
+content cost = 22520.592
+style cost = 1.88E+6RMSE: 0.25SSIM = 0.9999621594060729
+iteration time = 1.20
+Total time = 239.78
+
+Iteration 184 : 
+
+total cost = 1.87E+9
+content cost = 22534.084
+style cost = 1.87E+6RMSE: 0.248SSIM = 0.9999628183903001
+iteration time = 1.20
+Total time = 241.06
+
+Iteration 185 : 
+
+total cost = 1.86E+9
+content cost = 22547.48
+style cost = 1.86E+6RMSE: 0.25SSIM = 0.9999621249434806
+iteration time = 1.20
+Total time = 242.34
+
+Iteration 186 : 
+
+total cost = 1.84E+9
+content cost = 22560.785
+style cost = 1.84E+6RMSE: 0.248SSIM = 0.9999625629616066
+iteration time = 1.22
+Total time = 243.63
+
+Iteration 187 : 
+
+total cost = 1.83E+9
+content cost = 22574.041
+style cost = 1.83E+6RMSE: 0.249SSIM = 0.9999624888212373
+iteration time = 1.22
+Total time = 244.92
+
+Iteration 188 : 
+
+total cost = 1.82E+9
+content cost = 22587.15
+style cost = 1.82E+6RMSE: 0.247SSIM = 0.9999628604626184
+iteration time = 1.22
+Total time = 246.20
+
+Iteration 189 : 
+
+total cost = 1.81E+9
+content cost = 22600.285
+style cost = 1.81E+6RMSE: 0.247SSIM = 0.9999627523802906
+iteration time = 1.22
+Total time = 247.48
+
+Iteration 190 : 
+
+total cost = 1.80E+9
+content cost = 22613.451
+style cost = 1.80E+6RMSE: 0.247SSIM = 0.9999628934163448
+iteration time = 1.21
+Total time = 248.77
+
+Iteration 191 : 
+
+total cost = 1.79E+9
+content cost = 22626.553
+style cost = 1.79E+6RMSE: 0.245SSIM = 0.9999634032467001
+iteration time = 1.20
+Total time = 250.03
+
+Iteration 192 : 
+
+total cost = 1.77E+9
+content cost = 22639.55
+style cost = 1.77E+6RMSE: 0.246SSIM = 0.9999633152505915
+iteration time = 1.21
+Total time = 251.33
+
+Iteration 193 : 
+
+total cost = 1.76E+9
+content cost = 22652.398
+style cost = 1.76E+6RMSE: 0.245SSIM = 0.9999635036622275
+iteration time = 1.21
+Total time = 252.61
+
+Iteration 194 : 
+
+total cost = 1.75E+9
+content cost = 22665.154
+style cost = 1.75E+6RMSE: 0.245SSIM = 0.9999636531347075
+iteration time = 1.21
+Total time = 253.91
+
+Iteration 195 : 
+
+total cost = 1.74E+9
+content cost = 22677.916
+style cost = 1.74E+6RMSE: 0.245SSIM = 0.9999636308277559
+iteration time = 1.20
+Total time = 255.18
+
+Iteration 196 : 
+
+total cost = 1.73E+9
+content cost = 22690.791
+style cost = 1.73E+6RMSE: 0.243SSIM = 0.9999639909957599
+iteration time = 1.22
+Total time = 256.47
+
+Iteration 197 : 
+
+total cost = 1.72E+9
+content cost = 22703.613
+style cost = 1.72E+6RMSE: 0.243SSIM = 0.9999640836970389
+iteration time = 1.20
+Total time = 257.75
+
+Iteration 198 : 
+
+total cost = 1.71E+9
+content cost = 22716.291
+style cost = 1.71E+6RMSE: 0.243SSIM = 0.9999639445442238
+iteration time = 1.22
+Total time = 259.06
+
+Iteration 199 : 
+
+total cost = 1.70E+9
+content cost = 22728.832
+style cost = 1.70E+6RMSE: 0.241SSIM = 0.9999645478365632
+iteration time = 1.20
+Total time = 260.38
+
+ Total time to run program: 260.38

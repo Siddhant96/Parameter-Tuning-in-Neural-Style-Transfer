@@ -1,0 +1,1803 @@
+
+
+Iteration 0 : 
+
+total cost = 310484240000.0
+content cost = 9727.437
+style cost = 310484130.0
+iteration time = 1.23
+Total time = 1.23
+Rate = 7966043.5
+
+Iteration 1 : 
+
+total cost = 310472900000.0
+content cost = 9727.151
+style cost = 310472800.0
+iteration time = 1.22
+Total time = 2.52
+Rate = 2.4901903e-05
+
+Iteration 2 : 
+
+total cost = 310462250000.0
+content cost = 9726.882
+style cost = 310462140.0
+iteration time = 1.22
+Total time = 3.91
+Rate = 2.3623565e-05
+
+Iteration 3 : 
+
+total cost = 310451770000.0
+content cost = 9726.619
+style cost = 310451680.0
+iteration time = 1.22
+Total time = 5.18
+Rate = 2.3003282e-05
+
+Iteration 4 : 
+
+total cost = 310441540000.0
+content cost = 9726.359
+style cost = 310441440.0
+iteration time = 1.21
+Total time = 6.43
+Rate = 2.2649361e-05
+
+Iteration 5 : 
+
+total cost = 310431320000.0
+content cost = 9726.1
+style cost = 310431230.0
+iteration time = 1.23
+Total time = 7.69
+Rate = 2.2425787e-05
+
+Iteration 6 : 
+
+total cost = 310421320000.0
+content cost = 9725.847
+style cost = 310421220.0
+iteration time = 1.22
+Total time = 8.94
+Rate = 2.2285833e-05
+
+Iteration 7 : 
+
+total cost = 310411170000.0
+content cost = 9725.589
+style cost = 310411070.0
+iteration time = 1.22
+Total time = 10.32
+Rate = 2.2192533e-05
+
+Iteration 8 : 
+
+total cost = 310401170000.0
+content cost = 9725.342
+style cost = 310401100.0
+iteration time = 1.22
+Total time = 11.60
+Rate = 2.212568e-05
+
+Iteration 9 : 
+
+total cost = 310391200000.0
+content cost = 9725.092
+style cost = 310391100.0
+iteration time = 1.22
+Total time = 12.86
+Rate = 2.2086097e-05
+
+Iteration 10 : 
+
+total cost = 310381200000.0
+content cost = 9724.841
+style cost = 310381120.0
+iteration time = 1.22
+Total time = 14.11
+Rate = 2.2057715e-05
+
+Iteration 11 : 
+
+total cost = 310371200000.0
+content cost = 9724.595
+style cost = 310371100.0
+iteration time = 1.21
+Total time = 15.50
+Rate = 2.2044398e-05
+
+Iteration 12 : 
+
+total cost = 310361260000.0
+content cost = 9724.341
+style cost = 310361150.0
+iteration time = 1.22
+Total time = 16.75
+Rate = 2.204424e-05
+
+Iteration 13 : 
+
+total cost = 310351360000.0
+content cost = 9724.089
+style cost = 310351260.0
+iteration time = 1.22
+Total time = 18.02
+Rate = 2.2057715e-05
+
+Iteration 14 : 
+
+total cost = 310341300000.0
+content cost = 9723.841
+style cost = 310341220.0
+iteration time = 1.23
+Total time = 19.28
+Rate = 2.2069167e-05
+
+Iteration 15 : 
+
+total cost = 310331380000.0
+content cost = 9723.592
+style cost = 310331260.0
+iteration time = 1.21
+Total time = 20.53
+Rate = 2.2073556e-05
+
+Iteration 16 : 
+
+total cost = 310321380000.0
+content cost = 9723.348
+style cost = 310321280.0
+iteration time = 1.22
+Total time = 21.79
+Rate = 2.208743e-05
+
+Iteration 17 : 
+
+total cost = 310311450000.0
+content cost = 9723.096
+style cost = 310311360.0
+iteration time = 1.23
+Total time = 23.17
+Rate = 2.2105138e-05
+
+Iteration 18 : 
+
+total cost = 310301460000.0
+content cost = 9722.842
+style cost = 310301340.0
+iteration time = 1.20
+Total time = 24.47
+Rate = 2.2132595e-05
+
+Iteration 19 : 
+
+total cost = 310291430000.0
+content cost = 9722.59
+style cost = 310291330.0
+iteration time = 1.22
+Total time = 25.88
+Rate = 2.2153668e-05
+
+Iteration 20 : 
+
+total cost = 310281370000.0
+content cost = 9722.352
+style cost = 310281280.0
+iteration time = 1.22
+Total time = 27.13
+Rate = 2.2177437e-05
+
+Iteration 21 : 
+
+total cost = 310271400000.0
+content cost = 9722.102
+style cost = 310271330.0
+iteration time = 1.23
+Total time = 28.43
+Rate = 2.2205702e-05
+
+Iteration 22 : 
+
+total cost = 310261320000.0
+content cost = 9721.849
+style cost = 310261220.0
+iteration time = 1.23
+Total time = 29.69
+Rate = 2.22322e-05
+
+Iteration 23 : 
+
+total cost = 310251360000.0
+content cost = 9721.602
+style cost = 310251260.0
+iteration time = 1.22
+Total time = 31.07
+Rate = 2.2260023e-05
+
+Iteration 24 : 
+
+total cost = 310241360000.0
+content cost = 9721.3545
+style cost = 310241250.0
+iteration time = 1.24
+Total time = 32.46
+Rate = 2.2288305e-05
+
+Iteration 25 : 
+
+total cost = 310231240000.0
+content cost = 9721.106
+style cost = 310231140.0
+iteration time = 1.22
+Total time = 33.89
+Rate = 2.2316775e-05
+
+Iteration 26 : 
+
+total cost = 310221180000.0
+content cost = 9720.858
+style cost = 310221100.0
+iteration time = 1.22
+Total time = 35.13
+Rate = 2.235639e-05
+
+Iteration 27 : 
+
+total cost = 310211120000.0
+content cost = 9720.611
+style cost = 310211000.0
+iteration time = 1.22
+Total time = 36.39
+Rate = 2.2376496e-05
+
+Iteration 28 : 
+
+total cost = 310201020000.0
+content cost = 9720.36
+style cost = 310200930.0
+iteration time = 1.22
+Total time = 37.65
+Rate = 2.2411417e-05
+
+Iteration 29 : 
+
+total cost = 310190960000.0
+content cost = 9720.113
+style cost = 310190880.0
+iteration time = 1.22
+Total time = 38.90
+Rate = 2.244406e-05
+
+Iteration 30 : 
+
+total cost = 310180770000.0
+content cost = 9719.865
+style cost = 310180670.0
+iteration time = 1.22
+Total time = 40.18
+Rate = 2.247498e-05
+
+Iteration 31 : 
+
+total cost = 310170750000.0
+content cost = 9719.615
+style cost = 310170660.0
+iteration time = 1.22
+Total time = 41.43
+Rate = 2.2502318e-05
+
+Iteration 32 : 
+
+total cost = 310160620000.0
+content cost = 9719.366
+style cost = 310160500.0
+iteration time = 1.22
+Total time = 42.71
+Rate = 2.2537979e-05
+
+Iteration 33 : 
+
+total cost = 310150330000.0
+content cost = 9719.115
+style cost = 310150240.0
+iteration time = 1.21
+Total time = 43.96
+Rate = 2.257166e-05
+
+Iteration 34 : 
+
+total cost = 310140240000.0
+content cost = 9718.871
+style cost = 310140130.0
+iteration time = 1.23
+Total time = 45.22
+Rate = 2.2603272e-05
+
+Iteration 35 : 
+
+total cost = 310130050000.0
+content cost = 9718.621
+style cost = 310129950.0
+iteration time = 1.22
+Total time = 46.48
+Rate = 2.2639286e-05
+
+Iteration 36 : 
+
+total cost = 310119920000.0
+content cost = 9718.371
+style cost = 310119840.0
+iteration time = 1.22
+Total time = 47.77
+Rate = 2.267053e-05
+
+Iteration 37 : 
+
+total cost = 310109700000.0
+content cost = 9718.118
+style cost = 310109600.0
+iteration time = 1.20
+Total time = 49.01
+Rate = 2.2704702e-05
+
+Iteration 38 : 
+
+total cost = 310099540000.0
+content cost = 9717.878
+style cost = 310099460.0
+iteration time = 1.22
+Total time = 50.28
+Rate = 2.2739929e-05
+
+Iteration 39 : 
+
+total cost = 310089220000.0
+content cost = 9717.629
+style cost = 310089120.0
+iteration time = 1.22
+Total time = 51.70
+Rate = 2.2778768e-05
+
+Iteration 40 : 
+
+total cost = 310078960000.0
+content cost = 9717.38
+style cost = 310078880.0
+iteration time = 1.22
+Total time = 52.97
+Rate = 2.2811766e-05
+
+Iteration 41 : 
+
+total cost = 310068700000.0
+content cost = 9717.129
+style cost = 310068600.0
+iteration time = 1.22
+Total time = 54.23
+Rate = 2.284297e-05
+
+Iteration 42 : 
+
+total cost = 310058550000.0
+content cost = 9716.882
+style cost = 310058460.0
+iteration time = 1.22
+Total time = 55.61
+Rate = 2.2879045e-05
+
+Iteration 43 : 
+
+total cost = 310048160000.0
+content cost = 9716.636
+style cost = 310048060.0
+iteration time = 1.22
+Total time = 56.89
+Rate = 2.2914166e-05
+
+Iteration 44 : 
+
+total cost = 310037940000.0
+content cost = 9716.39
+style cost = 310037860.0
+iteration time = 1.22
+Total time = 58.16
+Rate = 2.2946459e-05
+
+Iteration 45 : 
+
+total cost = 310027600000.0
+content cost = 9716.14
+style cost = 310027520.0
+iteration time = 1.22
+Total time = 59.43
+Rate = 2.2976254e-05
+
+Iteration 46 : 
+
+total cost = 310017360000.0
+content cost = 9715.892
+style cost = 310017250.0
+iteration time = 1.23
+Total time = 60.77
+Rate = 2.3014332e-05
+
+Iteration 47 : 
+
+total cost = 310006970000.0
+content cost = 9715.638
+style cost = 310006880.0
+iteration time = 1.21
+Total time = 62.04
+Rate = 2.304654e-05
+
+Iteration 48 : 
+
+total cost = 309996600000.0
+content cost = 9715.392
+style cost = 309996480.0
+iteration time = 1.20
+Total time = 63.34
+Rate = 2.3076533e-05
+
+Iteration 49 : 
+
+total cost = 309986230000.0
+content cost = 9715.142
+style cost = 309986140.0
+iteration time = 1.22
+Total time = 64.61
+Rate = 2.3103732e-05
+
+Iteration 50 : 
+
+total cost = 309975880000.0
+content cost = 9714.889
+style cost = 309975780.0
+iteration time = 1.22
+Total time = 66.01
+Rate = 2.3140254e-05
+
+Iteration 51 : 
+
+total cost = 309965520000.0
+content cost = 9714.642
+style cost = 309965400.0
+iteration time = 1.22
+Total time = 67.33
+Rate = 2.3180735e-05
+
+Iteration 52 : 
+
+total cost = 309955100000.0
+content cost = 9714.387
+style cost = 309955000.0
+iteration time = 1.22
+Total time = 68.60
+Rate = 2.3227183e-05
+
+Iteration 53 : 
+
+total cost = 309944700000.0
+content cost = 9714.139
+style cost = 309944600.0
+iteration time = 1.22
+Total time = 70.03
+Rate = 2.3254832e-05
+
+Iteration 54 : 
+
+total cost = 309934300000.0
+content cost = 9713.893
+style cost = 309934200.0
+iteration time = 1.23
+Total time = 71.30
+Rate = 2.329195e-05
+
+Iteration 55 : 
+
+total cost = 309923870000.0
+content cost = 9713.641
+style cost = 309923780.0
+iteration time = 1.22
+Total time = 72.63
+Rate = 2.3319906e-05
+
+Iteration 56 : 
+
+total cost = 309913450000.0
+content cost = 9713.393
+style cost = 309913340.0
+iteration time = 1.23
+Total time = 73.91
+Rate = 2.3352974e-05
+
+Iteration 57 : 
+
+total cost = 309902930000.0
+content cost = 9713.137
+style cost = 309902850.0
+iteration time = 1.22
+Total time = 75.18
+Rate = 2.3397917e-05
+
+Iteration 58 : 
+
+total cost = 309892450000.0
+content cost = 9712.887
+style cost = 309892350.0
+iteration time = 1.22
+Total time = 76.43
+Rate = 2.343082e-05
+
+Iteration 59 : 
+
+total cost = 309881930000.0
+content cost = 9712.636
+style cost = 309881820.0
+iteration time = 1.22
+Total time = 77.69
+Rate = 2.3463524e-05
+
+Iteration 60 : 
+
+total cost = 309871400000.0
+content cost = 9712.387
+style cost = 309871330.0
+iteration time = 1.22
+Total time = 79.08
+Rate = 2.3492319e-05
+
+Iteration 61 : 
+
+total cost = 309860900000.0
+content cost = 9712.133
+style cost = 309860800.0
+iteration time = 1.22
+Total time = 80.38
+Rate = 2.3532975e-05
+
+Iteration 62 : 
+
+total cost = 309850400000.0
+content cost = 9711.884
+style cost = 309850300.0
+iteration time = 1.22
+Total time = 81.63
+Rate = 2.3559753e-05
+
+Iteration 63 : 
+
+total cost = 309839920000.0
+content cost = 9711.633
+style cost = 309839800.0
+iteration time = 1.21
+Total time = 83.01
+Rate = 2.3594468e-05
+
+Iteration 64 : 
+
+total cost = 309829270000.0
+content cost = 9711.379
+style cost = 309829200.0
+iteration time = 1.22
+Total time = 84.28
+Rate = 2.3629842e-05
+
+Iteration 65 : 
+
+total cost = 309818720000.0
+content cost = 9711.131
+style cost = 309818620.0
+iteration time = 1.22
+Total time = 85.58
+Rate = 2.3659e-05
+
+Iteration 66 : 
+
+total cost = 309808070000.0
+content cost = 9710.879
+style cost = 309807970.0
+iteration time = 1.22
+Total time = 86.87
+Rate = 2.369382e-05
+
+Iteration 67 : 
+
+total cost = 309797550000.0
+content cost = 9710.626
+style cost = 309797440.0
+iteration time = 1.22
+Total time = 88.14
+Rate = 2.372488e-05
+
+Iteration 68 : 
+
+total cost = 309786940000.0
+content cost = 9710.379
+style cost = 309786850.0
+iteration time = 1.22
+Total time = 89.42
+Rate = 2.3757537e-05
+
+Iteration 69 : 
+
+total cost = 309776250000.0
+content cost = 9710.121
+style cost = 309776160.0
+iteration time = 1.21
+Total time = 90.71
+Rate = 2.3788722e-05
+
+Iteration 70 : 
+
+total cost = 309765640000.0
+content cost = 9709.874
+style cost = 309765540.0
+iteration time = 1.22
+Total time = 92.06
+Rate = 2.3823068e-05
+
+Iteration 71 : 
+
+total cost = 309754920000.0
+content cost = 9709.625
+style cost = 309754800.0
+iteration time = 1.22
+Total time = 93.38
+Rate = 2.3859811e-05
+
+Iteration 72 : 
+
+total cost = 309744270000.0
+content cost = 9709.372
+style cost = 309744160.0
+iteration time = 1.23
+Total time = 94.67
+Rate = 2.3886194e-05
+
+Iteration 73 : 
+
+total cost = 309733700000.0
+content cost = 9709.117
+style cost = 309733600.0
+iteration time = 1.21
+Total time = 95.95
+Rate = 2.3925439e-05
+
+Iteration 74 : 
+
+total cost = 309722900000.0
+content cost = 9708.86
+style cost = 309722800.0
+iteration time = 1.22
+Total time = 97.23
+Rate = 2.3967696e-05
+
+Iteration 75 : 
+
+total cost = 309712300000.0
+content cost = 9708.609
+style cost = 309712200.0
+iteration time = 1.22
+Total time = 98.51
+Rate = 2.4001829e-05
+
+Iteration 76 : 
+
+total cost = 309701500000.0
+content cost = 9708.353
+style cost = 309701400.0
+iteration time = 1.23
+Total time = 99.79
+Rate = 2.4028877e-05
+
+Iteration 77 : 
+
+total cost = 309690830000.0
+content cost = 9708.099
+style cost = 309690720.0
+iteration time = 1.22
+Total time = 101.06
+Rate = 2.4057317e-05
+
+Iteration 78 : 
+
+total cost = 309679980000.0
+content cost = 9707.847
+style cost = 309679870.0
+iteration time = 1.22
+Total time = 102.33
+Rate = 2.4094796e-05
+
+Iteration 79 : 
+
+total cost = 309669230000.0
+content cost = 9707.596
+style cost = 309669120.0
+iteration time = 1.22
+Total time = 103.59
+Rate = 2.4129758e-05
+
+Iteration 80 : 
+
+total cost = 309658500000.0
+content cost = 9707.338
+style cost = 309658400.0
+iteration time = 1.23
+Total time = 104.90
+Rate = 2.416616e-05
+
+Iteration 81 : 
+
+total cost = 309647670000.0
+content cost = 9707.082
+style cost = 309647580.0
+iteration time = 1.23
+Total time = 106.18
+Rate = 2.4208177e-05
+
+Iteration 82 : 
+
+total cost = 309636830000.0
+content cost = 9706.83
+style cost = 309636740.0
+iteration time = 1.23
+Total time = 107.45
+Rate = 2.4243021e-05
+
+Iteration 83 : 
+
+total cost = 309626000000.0
+content cost = 9706.573
+style cost = 309625920.0
+iteration time = 1.22
+Total time = 108.72
+Rate = 2.4286022e-05
+
+Iteration 84 : 
+
+total cost = 309615200000.0
+content cost = 9706.318
+style cost = 309615100.0
+iteration time = 1.23
+Total time = 110.13
+Rate = 2.432164e-05
+
+Iteration 85 : 
+
+total cost = 309604320000.0
+content cost = 9706.063
+style cost = 309604220.0
+iteration time = 1.22
+Total time = 111.40
+Rate = 2.4350757e-05
+
+Iteration 86 : 
+
+total cost = 309593440000.0
+content cost = 9705.8125
+style cost = 309593340.0
+iteration time = 1.22
+Total time = 112.67
+Rate = 2.4379227e-05
+
+Iteration 87 : 
+
+total cost = 309582600000.0
+content cost = 9705.56
+style cost = 309582500.0
+iteration time = 1.22
+Total time = 113.93
+Rate = 2.4423009e-05
+
+Iteration 88 : 
+
+total cost = 309571700000.0
+content cost = 9705.305
+style cost = 309571620.0
+iteration time = 1.22
+Total time = 115.20
+Rate = 2.4459137e-05
+
+Iteration 89 : 
+
+total cost = 309560800000.0
+content cost = 9705.049
+style cost = 309560700.0
+iteration time = 1.23
+Total time = 116.47
+Rate = 2.4497524e-05
+
+Iteration 90 : 
+
+total cost = 309549830000.0
+content cost = 9704.797
+style cost = 309549730.0
+iteration time = 1.22
+Total time = 117.76
+Rate = 2.4529254e-05
+
+Iteration 91 : 
+
+total cost = 309538950000.0
+content cost = 9704.544
+style cost = 309538850.0
+iteration time = 1.22
+Total time = 119.02
+Rate = 2.4567968e-05
+
+Iteration 92 : 
+
+total cost = 309527970000.0
+content cost = 9704.287
+style cost = 309527870.0
+iteration time = 1.22
+Total time = 120.39
+Rate = 2.4603116e-05
+
+Iteration 93 : 
+
+total cost = 309517000000.0
+content cost = 9704.037
+style cost = 309516900.0
+iteration time = 1.23
+Total time = 121.69
+Rate = 2.4630284e-05
+
+Iteration 94 : 
+
+total cost = 309506000000.0
+content cost = 9703.779
+style cost = 309505920.0
+iteration time = 1.22
+Total time = 122.95
+Rate = 2.4670415e-05
+
+Iteration 95 : 
+
+total cost = 309494970000.0
+content cost = 9703.525
+style cost = 309494880.0
+iteration time = 1.23
+Total time = 124.35
+Rate = 2.4701128e-05
+
+Iteration 96 : 
+
+total cost = 309483960000.0
+content cost = 9703.269
+style cost = 309483870.0
+iteration time = 1.22
+Total time = 125.60
+Rate = 2.4734229e-05
+
+Iteration 97 : 
+
+total cost = 309473050000.0
+content cost = 9703.02
+style cost = 309472960.0
+iteration time = 1.23
+Total time = 126.87
+Rate = 2.476603e-05
+
+Iteration 98 : 
+
+total cost = 309461940000.0
+content cost = 9702.766
+style cost = 309461860.0
+iteration time = 1.22
+Total time = 128.16
+Rate = 2.480507e-05
+
+Iteration 99 : 
+
+total cost = 309450870000.0
+content cost = 9702.512
+style cost = 309450750.0
+iteration time = 1.21
+Total time = 129.41
+Rate = 2.4837962e-05
+
+Iteration 100 : 
+
+total cost = 309439820000.0
+content cost = 9702.261
+style cost = 309439700.0
+iteration time = 1.23
+Total time = 130.70
+Rate = 2.4881147e-05
+
+Iteration 101 : 
+
+total cost = 309428800000.0
+content cost = 9702.007
+style cost = 309428700.0
+iteration time = 1.21
+Total time = 132.01
+Rate = 2.4909381e-05
+
+Iteration 102 : 
+
+total cost = 309417640000.0
+content cost = 9701.751
+style cost = 309417540.0
+iteration time = 1.22
+Total time = 133.31
+Rate = 2.4947021e-05
+
+Iteration 103 : 
+
+total cost = 309406630000.0
+content cost = 9701.496
+style cost = 309406530.0
+iteration time = 1.22
+Total time = 134.63
+Rate = 2.4975048e-05
+
+Iteration 104 : 
+
+total cost = 309395420000.0
+content cost = 9701.248
+style cost = 309395330.0
+iteration time = 1.22
+Total time = 135.90
+Rate = 2.5010071e-05
+
+Iteration 105 : 
+
+total cost = 309384250000.0
+content cost = 9700.997
+style cost = 309384160.0
+iteration time = 1.23
+Total time = 137.19
+Rate = 2.5042202e-05
+
+Iteration 106 : 
+
+total cost = 309373100000.0
+content cost = 9700.737
+style cost = 309373020.0
+iteration time = 1.22
+Total time = 138.52
+Rate = 2.5079522e-05
+
+Iteration 107 : 
+
+total cost = 309362000000.0
+content cost = 9700.484
+style cost = 309361900.0
+iteration time = 1.22
+Total time = 139.80
+Rate = 2.5106665e-05
+
+Iteration 108 : 
+
+total cost = 309350800000.0
+content cost = 9700.235
+style cost = 309350700.0
+iteration time = 1.22
+Total time = 141.11
+Rate = 2.514179e-05
+
+Iteration 109 : 
+
+total cost = 309339600000.0
+content cost = 9699.977
+style cost = 309339500.0
+iteration time = 1.22
+Total time = 142.37
+Rate = 2.5169686e-05
+
+Iteration 110 : 
+
+total cost = 309328400000.0
+content cost = 9699.726
+style cost = 309328320.0
+iteration time = 1.22
+Total time = 143.71
+Rate = 2.5202853e-05
+
+Iteration 111 : 
+
+total cost = 309317040000.0
+content cost = 9699.474
+style cost = 309316960.0
+iteration time = 1.22
+Total time = 144.96
+Rate = 2.522945e-05
+
+Iteration 112 : 
+
+total cost = 309306000000.0
+content cost = 9699.223
+style cost = 309305900.0
+iteration time = 1.22
+Total time = 146.27
+Rate = 2.5254847e-05
+
+Iteration 113 : 
+
+total cost = 309294760000.0
+content cost = 9698.971
+style cost = 309294660.0
+iteration time = 1.22
+Total time = 147.57
+Rate = 2.5296315e-05
+
+Iteration 114 : 
+
+total cost = 309283420000.0
+content cost = 9698.718
+style cost = 309283330.0
+iteration time = 1.21
+Total time = 148.88
+Rate = 2.5337346e-05
+
+Iteration 115 : 
+
+total cost = 309272120000.0
+content cost = 9698.456
+style cost = 309272030.0
+iteration time = 1.22
+Total time = 150.16
+Rate = 2.5379888e-05
+
+Iteration 116 : 
+
+total cost = 309260880000.0
+content cost = 9698.206
+style cost = 309260770.0
+iteration time = 1.22
+Total time = 151.49
+Rate = 2.5415577e-05
+
+Iteration 117 : 
+
+total cost = 309249500000.0
+content cost = 9697.947
+style cost = 309249400.0
+iteration time = 1.22
+Total time = 152.75
+Rate = 2.5442261e-05
+
+Iteration 118 : 
+
+total cost = 309238200000.0
+content cost = 9697.699
+style cost = 309238100.0
+iteration time = 1.23
+Total time = 154.01
+Rate = 2.5479792e-05
+
+Iteration 119 : 
+
+total cost = 309226830000.0
+content cost = 9697.442
+style cost = 309226720.0
+iteration time = 1.22
+Total time = 155.27
+Rate = 2.5520605e-05
+
+Iteration 120 : 
+
+total cost = 309215400000.0
+content cost = 9697.186
+style cost = 309215300.0
+iteration time = 1.22
+Total time = 156.58
+Rate = 2.5550773e-05
+
+Iteration 121 : 
+
+total cost = 309204100000.0
+content cost = 9696.931
+style cost = 309204000.0
+iteration time = 1.22
+Total time = 157.85
+Rate = 2.5593536e-05
+
+Iteration 122 : 
+
+total cost = 309192800000.0
+content cost = 9696.677
+style cost = 309192670.0
+iteration time = 1.22
+Total time = 159.17
+Rate = 2.5623034e-05
+
+Iteration 123 : 
+
+total cost = 309181380000.0
+content cost = 9696.417
+style cost = 309181280.0
+iteration time = 1.22
+Total time = 160.45
+Rate = 2.5663563e-05
+
+Iteration 124 : 
+
+total cost = 309169980000.0
+content cost = 9696.165
+style cost = 309169900.0
+iteration time = 1.21
+Total time = 161.73
+Rate = 2.5701727e-05
+
+Iteration 125 : 
+
+total cost = 309158540000.0
+content cost = 9695.909
+style cost = 309158430.0
+iteration time = 1.22
+Total time = 163.01
+Rate = 2.573134e-05
+
+Iteration 126 : 
+
+total cost = 309147000000.0
+content cost = 9695.656
+style cost = 309146900.0
+iteration time = 1.22
+Total time = 164.28
+Rate = 2.5759975e-05
+
+Iteration 127 : 
+
+total cost = 309135540000.0
+content cost = 9695.398
+style cost = 309135460.0
+iteration time = 1.22
+Total time = 165.54
+Rate = 2.5797806e-05
+
+Iteration 128 : 
+
+total cost = 309124170000.0
+content cost = 9695.143
+style cost = 309124060.0
+iteration time = 1.22
+Total time = 166.83
+Rate = 2.582987e-05
+
+Iteration 129 : 
+
+total cost = 309112600000.0
+content cost = 9694.889
+style cost = 309112500.0
+iteration time = 1.22
+Total time = 168.15
+Rate = 2.5871204e-05
+
+Iteration 130 : 
+
+total cost = 309101200000.0
+content cost = 9694.636
+style cost = 309101100.0
+iteration time = 1.21
+Total time = 169.53
+Rate = 2.590188e-05
+
+Iteration 131 : 
+
+total cost = 309089630000.0
+content cost = 9694.38
+style cost = 309089540.0
+iteration time = 1.22
+Total time = 170.82
+Rate = 2.5931475e-05
+
+Iteration 132 : 
+
+total cost = 309078100000.0
+content cost = 9694.121
+style cost = 309078000.0
+iteration time = 1.23
+Total time = 172.10
+Rate = 2.5969824e-05
+
+Iteration 133 : 
+
+total cost = 309066530000.0
+content cost = 9693.868
+style cost = 309066430.0
+iteration time = 1.23
+Total time = 173.42
+Rate = 2.5995712e-05
+
+Iteration 134 : 
+
+total cost = 309054960000.0
+content cost = 9693.617
+style cost = 309054880.0
+iteration time = 1.22
+Total time = 174.69
+Rate = 2.6035988e-05
+
+Iteration 135 : 
+
+total cost = 309043430000.0
+content cost = 9693.361
+style cost = 309043330.0
+iteration time = 1.22
+Total time = 175.94
+Rate = 2.6063139e-05
+
+Iteration 136 : 
+
+total cost = 309031860000.0
+content cost = 9693.108
+style cost = 309031780.0
+iteration time = 1.21
+Total time = 177.19
+Rate = 2.6096519e-05
+
+Iteration 137 : 
+
+total cost = 309020200000.0
+content cost = 9692.845
+style cost = 309020100.0
+iteration time = 1.22
+Total time = 178.49
+Rate = 2.6138285e-05
+
+Iteration 138 : 
+
+total cost = 309008630000.0
+content cost = 9692.591
+style cost = 309008540.0
+iteration time = 1.22
+Total time = 179.79
+Rate = 2.6160122e-05
+
+Iteration 139 : 
+
+total cost = 308997060000.0
+content cost = 9692.332
+style cost = 308996960.0
+iteration time = 1.22
+Total time = 181.06
+Rate = 2.6193282e-05
+
+Iteration 140 : 
+
+total cost = 308985330000.0
+content cost = 9692.084
+style cost = 308985250.0
+iteration time = 1.21
+Total time = 182.40
+Rate = 2.62148e-05
+
+Iteration 141 : 
+
+total cost = 308973730000.0
+content cost = 9691.822
+style cost = 308973630.0
+iteration time = 1.23
+Total time = 183.69
+Rate = 2.6249249e-05
+
+Iteration 142 : 
+
+total cost = 308962100000.0
+content cost = 9691.571
+style cost = 308962020.0
+iteration time = 1.22
+Total time = 184.96
+Rate = 2.628044e-05
+
+Iteration 143 : 
+
+total cost = 308950370000.0
+content cost = 9691.314
+style cost = 308950270.0
+iteration time = 1.21
+Total time = 186.24
+Rate = 2.6328336e-05
+
+Iteration 144 : 
+
+total cost = 308938740000.0
+content cost = 9691.056
+style cost = 308938620.0
+iteration time = 1.23
+Total time = 187.51
+Rate = 2.6357988e-05
+
+Iteration 145 : 
+
+total cost = 308926970000.0
+content cost = 9690.798
+style cost = 308926880.0
+iteration time = 1.22
+Total time = 188.79
+Rate = 2.639679e-05
+
+Iteration 146 : 
+
+total cost = 308915270000.0
+content cost = 9690.535
+style cost = 308915170.0
+iteration time = 1.22
+Total time = 190.10
+Rate = 2.6439975e-05
+
+Iteration 147 : 
+
+total cost = 308903480000.0
+content cost = 9690.285
+style cost = 308903400.0
+iteration time = 1.22
+Total time = 191.40
+Rate = 2.646715e-05
+
+Iteration 148 : 
+
+total cost = 308891800000.0
+content cost = 9690.023
+style cost = 308891700.0
+iteration time = 1.22
+Total time = 192.69
+Rate = 2.6507108e-05
+
+Iteration 149 : 
+
+total cost = 308880050000.0
+content cost = 9689.769
+style cost = 308879940.0
+iteration time = 1.21
+Total time = 193.98
+Rate = 2.6530492e-05
+
+Iteration 150 : 
+
+total cost = 308868300000.0
+content cost = 9689.51
+style cost = 308868200.0
+iteration time = 1.21
+Total time = 195.32
+Rate = 2.6569109e-05
+
+Iteration 151 : 
+
+total cost = 308856420000.0
+content cost = 9689.255
+style cost = 308856320.0
+iteration time = 1.22
+Total time = 196.61
+Rate = 2.66033e-05
+
+Iteration 152 : 
+
+total cost = 308844660000.0
+content cost = 9688.995
+style cost = 308844580.0
+iteration time = 1.22
+Total time = 197.93
+Rate = 2.663714e-05
+
+Iteration 153 : 
+
+total cost = 308832860000.0
+content cost = 9688.737
+style cost = 308832770.0
+iteration time = 1.23
+Total time = 199.21
+Rate = 2.6675201e-05
+
+Iteration 154 : 
+
+total cost = 308820930000.0
+content cost = 9688.487
+style cost = 308820830.0
+iteration time = 1.22
+Total time = 200.47
+Rate = 2.669597e-05
+
+Iteration 155 : 
+
+total cost = 308809040000.0
+content cost = 9688.226
+style cost = 308808930.0
+iteration time = 1.22
+Total time = 201.72
+Rate = 2.673562e-05
+
+Iteration 156 : 
+
+total cost = 308797280000.0
+content cost = 9687.966
+style cost = 308797200.0
+iteration time = 1.21
+Total time = 203.04
+Rate = 2.676857e-05
+
+Iteration 157 : 
+
+total cost = 308785280000.0
+content cost = 9687.716
+style cost = 308785180.0
+iteration time = 1.22
+Total time = 204.31
+Rate = 2.6816231e-05
+
+Iteration 158 : 
+
+total cost = 308773500000.0
+content cost = 9687.457
+style cost = 308773380.0
+iteration time = 1.22
+Total time = 205.60
+Rate = 2.6858195e-05
+
+Iteration 159 : 
+
+total cost = 308761500000.0
+content cost = 9687.198
+style cost = 308761400.0
+iteration time = 1.21
+Total time = 206.90
+Rate = 2.6895157e-05
+
+Iteration 160 : 
+
+total cost = 308749600000.0
+content cost = 9686.948
+style cost = 308749500.0
+iteration time = 1.23
+Total time = 208.20
+Rate = 2.6934684e-05
+
+Iteration 161 : 
+
+total cost = 308737670000.0
+content cost = 9686.686
+style cost = 308737570.0
+iteration time = 1.22
+Total time = 209.52
+Rate = 2.6965428e-05
+
+Iteration 162 : 
+
+total cost = 308725680000.0
+content cost = 9686.431
+style cost = 308725570.0
+iteration time = 1.22
+Total time = 210.80
+Rate = 2.7010516e-05
+
+Iteration 163 : 
+
+total cost = 308713650000.0
+content cost = 9686.176
+style cost = 308713570.0
+iteration time = 1.21
+Total time = 212.06
+Rate = 2.7041282e-05
+
+Iteration 164 : 
+
+total cost = 308701630000.0
+content cost = 9685.919
+style cost = 308701540.0
+iteration time = 1.22
+Total time = 213.35
+Rate = 2.7074908e-05
+
+Iteration 165 : 
+
+total cost = 308689600000.0
+content cost = 9685.658
+style cost = 308689500.0
+iteration time = 1.22
+Total time = 214.66
+Rate = 2.711662e-05
+
+Iteration 166 : 
+
+total cost = 308677500000.0
+content cost = 9685.401
+style cost = 308677400.0
+iteration time = 1.22
+Total time = 216.00
+Rate = 2.7142423e-05
+
+Iteration 167 : 
+
+total cost = 308665550000.0
+content cost = 9685.14
+style cost = 308665440.0
+iteration time = 1.22
+Total time = 217.29
+Rate = 2.7172813e-05
+
+Iteration 168 : 
+
+total cost = 308653500000.0
+content cost = 9684.892
+style cost = 308653380.0
+iteration time = 1.23
+Total time = 218.58
+Rate = 2.7215627e-05
+
+Iteration 169 : 
+
+total cost = 308641370000.0
+content cost = 9684.63
+style cost = 308641280.0
+iteration time = 1.22
+Total time = 219.87
+Rate = 2.7244698e-05
+
+Iteration 170 : 
+
+total cost = 308629300000.0
+content cost = 9684.373
+style cost = 308629220.0
+iteration time = 1.23
+Total time = 221.12
+Rate = 2.727923e-05
+
+Iteration 171 : 
+
+total cost = 308617200000.0
+content cost = 9684.122
+style cost = 308617120.0
+iteration time = 1.21
+Total time = 222.39
+Rate = 2.7318258e-05
+
+Iteration 172 : 
+
+total cost = 308605120000.0
+content cost = 9683.857
+style cost = 308605020.0
+iteration time = 1.23
+Total time = 223.65
+Rate = 2.7351978e-05
+
+Iteration 173 : 
+
+total cost = 308593030000.0
+content cost = 9683.602
+style cost = 308592930.0
+iteration time = 1.22
+Total time = 224.95
+Rate = 2.739373e-05
+
+Iteration 174 : 
+
+total cost = 308580800000.0
+content cost = 9683.346
+style cost = 308580700.0
+iteration time = 1.22
+Total time = 226.24
+Rate = 2.7433854e-05
+
+Iteration 175 : 
+
+total cost = 308568720000.0
+content cost = 9683.093
+style cost = 308568600.0
+iteration time = 1.22
+Total time = 227.51
+Rate = 2.7464775e-05
+
+Iteration 176 : 
+
+total cost = 308556500000.0
+content cost = 9682.834
+style cost = 308556380.0
+iteration time = 1.22
+Total time = 228.78
+Rate = 2.7497492e-05
+
+Iteration 177 : 
+
+total cost = 308544270000.0
+content cost = 9682.576
+style cost = 308544200.0
+iteration time = 1.22
+Total time = 230.04
+Rate = 2.7531589e-05
+
+Iteration 178 : 
+
+total cost = 308532100000.0
+content cost = 9682.327
+style cost = 308532000.0
+iteration time = 1.22
+Total time = 231.30
+Rate = 2.7576505e-05
+
+Iteration 179 : 
+
+total cost = 308519860000.0
+content cost = 9682.069
+style cost = 308519780.0
+iteration time = 1.22
+Total time = 232.57
+Rate = 2.760305e-05
+
+Iteration 180 : 
+
+total cost = 308507570000.0
+content cost = 9681.815
+style cost = 308507500.0
+iteration time = 1.21
+Total time = 233.89
+Rate = 2.7645272e-05
+
+Iteration 181 : 
+
+total cost = 308495250000.0
+content cost = 9681.562
+style cost = 308495170.0
+iteration time = 1.22
+Total time = 235.16
+Rate = 2.7676391e-05
+
+Iteration 182 : 
+
+total cost = 308483060000.0
+content cost = 9681.306
+style cost = 308482980.0
+iteration time = 1.22
+Total time = 236.43
+Rate = 2.7699645e-05
+
+Iteration 183 : 
+
+total cost = 308470740000.0
+content cost = 9681.052
+style cost = 308470660.0
+iteration time = 1.23
+Total time = 237.71
+Rate = 2.7736096e-05
+
+Iteration 184 : 
+
+total cost = 308458460000.0
+content cost = 9680.797
+style cost = 308458370.0
+iteration time = 1.22
+Total time = 238.99
+Rate = 2.7756081e-05
+
+Iteration 185 : 
+
+total cost = 308446130000.0
+content cost = 9680.546
+style cost = 308446050.0
+iteration time = 1.22
+Total time = 240.29
+Rate = 2.7798998e-05
+
+Iteration 186 : 
+
+total cost = 308433850000.0
+content cost = 9680.291
+style cost = 308433760.0
+iteration time = 1.22
+Total time = 241.56
+Rate = 2.7823538e-05
+
+Iteration 187 : 
+
+total cost = 308421500000.0
+content cost = 9680.045
+style cost = 308421400.0
+iteration time = 1.22
+Total time = 242.85
+Rate = 2.7867804e-05
+
+Iteration 188 : 
+
+total cost = 308409100000.0
+content cost = 9679.789
+style cost = 308409000.0
+iteration time = 1.22
+Total time = 244.18
+Rate = 2.7898745e-05
+
+Iteration 189 : 
+
+total cost = 308396750000.0
+content cost = 9679.538
+style cost = 308396640.0
+iteration time = 1.22
+Total time = 245.46
+Rate = 2.793319e-05
+
+Iteration 190 : 
+
+total cost = 308384330000.0
+content cost = 9679.284
+style cost = 308384220.0
+iteration time = 1.22
+Total time = 246.73
+Rate = 2.7954915e-05
+
+Iteration 191 : 
+
+total cost = 308371900000.0
+content cost = 9679.031
+style cost = 308371800.0
+iteration time = 1.22
+Total time = 248.00
+Rate = 2.7976545e-05
+
+Iteration 192 : 
+
+total cost = 308359500000.0
+content cost = 9678.776
+style cost = 308359400.0
+iteration time = 1.22
+Total time = 249.29
+Rate = 2.8013319e-05
+
+Iteration 193 : 
+
+total cost = 308347040000.0
+content cost = 9678.529
+style cost = 308346940.0
+iteration time = 1.22
+Total time = 250.57
+Rate = 2.80544e-05
+
+Iteration 194 : 
+
+total cost = 308334620000.0
+content cost = 9678.277
+style cost = 308334530.0
+iteration time = 1.21
+Total time = 251.82
+Rate = 2.81e-05
+
+Iteration 195 : 
+
+total cost = 308322140000.0
+content cost = 9678.021
+style cost = 308322050.0
+iteration time = 1.21
+Total time = 253.09
+Rate = 2.813302e-05
+
+Iteration 196 : 
+
+total cost = 308309600000.0
+content cost = 9677.767
+style cost = 308309500.0
+iteration time = 1.22
+Total time = 254.38
+Rate = 2.8164563e-05
+
+Iteration 197 : 
+
+total cost = 308297070000.0
+content cost = 9677.5205
+style cost = 308296960.0
+iteration time = 1.22
+Total time = 255.64
+Rate = 2.8208295e-05
+
+Iteration 198 : 
+
+total cost = 308284620000.0
+content cost = 9677.264
+style cost = 308284500.0
+iteration time = 1.22
+Total time = 256.92
+Rate = 2.8239463e-05
+
+Iteration 199 : 
+
+total cost = 308272040000.0
+content cost = 9677.012
+style cost = 308271940.0
+iteration time = 1.22
+Total time = 258.21
+Rate = 2.8273973e-05
+
+ Total time to run program: 258.21
